@@ -2,6 +2,6 @@
 ### **Welcome to b7**
 **b7**
 
-[https://b7.github.io/]
+**<a href="https://b7.github.io/">b7.github.io</a>**
 
-b7.github@gmail.com
+**<a href="mailyo:b7.github@gmail.com">b7.github@gmail.com</a>**
