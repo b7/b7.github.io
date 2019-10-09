@@ -5,7 +5,7 @@
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <img alt="b7" src="b7.svg">
-<p><strong><font size="6">Welcome to b7</font></strong></p>
+<p><strong><font size="5">Welcome to b7</font></strong></p>
 
 **URL: <a href="https://b7.github.io/">b7.github.io</a>**
 
