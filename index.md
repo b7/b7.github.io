@@ -6,6 +6,6 @@
 </head>
 <img alt="b7" src="b7.svg">
 
-**<a href="https://b7.github.io/">b7.github.io</a> <a href="mailyo:b7.github@gmail.com">b7.github@gmail.com</a>**
+**<a href="https://b7.github.io/">b7.github.io</a> E-Mail: <a href="mailyo:b7.github@gmail.com">b7.github@gmail.com</a>**
 
 Copyright © 2019 b7
