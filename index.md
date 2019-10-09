@@ -4,9 +4,8 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
-<h1 id="b7"><strong><font size="7">b7</font></strong></h1>
 <img alt="b7" src="b7.svg">
-<p><strong><font size="5">b7</font></strong></p>
+<p><strong><font size="7">Welcome to b7</font></strong></p>
 
 **URL: <a href="https://b7.github.io/">b7.github.io</a>**
 
