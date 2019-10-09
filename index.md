@@ -11,4 +11,4 @@
 
 **E-Mail: <a href="mailyo:b7.github@gmail.com">b7.github@gmail.com</a>**
 
-Copyright © 2019 b7. All rights reserved
+Copyright © 2019 b7
