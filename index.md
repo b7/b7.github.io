@@ -7,4 +7,4 @@
 <p><strong><font size="5"><a href="https://b7.github.io">Home</a> &nbsp; <a href="https://b7.github.io/about">About</a> &nbsp; <a href="https://b7.github.io/contact">Contact</a></font></strong></p>
 <img alt="b7" src="b7.svg">
 
-<p><strong><a href="https://b7.github.io/legal">Legal</a></strong></p> Copyright © 2019 b7
+<strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
