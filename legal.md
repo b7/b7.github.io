@@ -6,7 +6,7 @@
 
 **Michael Weber**
 
-**For current residence please contact us!
+**For current residence please contact us!**
 
 **Phone: +316 8401 5534**
 
