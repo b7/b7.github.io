@@ -6,8 +6,6 @@
 
 **Michael Weber**
 
-**Phone: +316 8401 5534**
-
 **Phone: <a href="tel:+31684015534">+316 8401 5534</a>**
 
 **E-Mail: <a href="mailt:b7.github@gmail.com">b7.github@gmail.com</a>**
