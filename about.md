@@ -4,7 +4,7 @@
 
 **b7 [ˈbi ˈsɛvən]**
 
-**b7 is "b7" (b7, b seven)**
+**b7 is "b7" (b7 and b seven)**
 
 **b7 is my nickname**
 
