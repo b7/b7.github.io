@@ -4,10 +4,8 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
-**Welcome to b7**
+## Welcome to b7**
 <img alt="b7" src="b7.svg">
-
-**URL: <a href="https://b7.github.io/">b7.github.io</a>**
 
 **E-Mail: <a href="mailyo:b7.github@gmail.com">b7.github@gmail.com</a>**
 
