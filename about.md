@@ -10,7 +10,7 @@
 
 **7 is the number we like at most**
 
-**b7 means in words: be what we like at most**
+**b7 means: be what we like at most**
 
 tags: "b7"
 
