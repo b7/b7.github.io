@@ -1,8 +1,8 @@
-## About b7
+## Legal b7
 
 <p><strong><font size="5"><a href="https://b7.github.io">Home</a> &nbsp; <a href="https://b7.github.io/about">About</a> &nbsp; <a href="https://b7.github.io/contact">Contact</a></font></strong></p>
 
-**b7 **
+**b7**
 
 **Michael Weber**
 
