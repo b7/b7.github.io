@@ -8,7 +8,7 @@
 
 **Phone: +316 8401 5534**
 
-**E-Mail: b7.github@gmail.com**
+**E-Mail: <a href="mailt:b7.github@gmail.com">b7.github@gmail.com</a>**
 
 **Amsterdam in the Netherlands**
 
