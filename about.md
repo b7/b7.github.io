@@ -2,6 +2,8 @@
 
 <p><strong><font size="5"><a href="https://b7.github.io">Home</a> &nbsp; <a href="https://b7.github.io/about">About</a> &nbsp; <a href="https://b7.github.io/contact">Contact</a></font></strong></p>
 
+b7 [ˈbi ˈsɛvən]
+
 **b7 is "b7" (b7, b seven)**
 
 **b7 is my nickname**
