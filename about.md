@@ -12,6 +12,4 @@
 
 **b7 means: be what we like at most**
 
-tags: "b7"
-
 <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
