@@ -6,7 +6,7 @@
 
 **b7 is "b7" (b7 and b seven)**
 
-**b7 is my nickname**
+**b7 is our name**
 
 **b is the imperative "be" from "to be"**
 
