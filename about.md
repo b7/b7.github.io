@@ -6,10 +6,12 @@
 
 **b7 is my nickname**
 
-**b is the imperative "be" from "to be" and 7 is the number we like at most**
+**b is the imperative "be" from "to be"**
+
+**7 is the number we like at most**
 
 **b7 means in words: be what we like at most**
 
 tags: "b7"
 
-Copyright © 2019 b7
+<strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
