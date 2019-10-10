@@ -12,6 +12,12 @@
 
 **WhatsApp: <a href="wa.me/31684015534">+316 8401 5534</a>**
 
+**<a href="https://twitter.com/b7git">twitter.com/b7git</a>**
+
+**<a href="https://instagram.com/b7git">instagram.com/b7git</a>**
+
+**<a href="https://facebook.com/b7git">facebook.com/b7git</a>**
+
 **Amsterdam in the Netherlands**
 
 <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
