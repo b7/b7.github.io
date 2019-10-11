@@ -11,6 +11,6 @@
 
 **b is the imperative "be" from "to be"**
 
-**7 is 7 people being one and joying together**
+**7 is 7 people are one and enjoy time**
 
 <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
