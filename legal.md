@@ -3,7 +3,7 @@
 
 **b7**
 
-**Michael Weber**
+**E-Mail: <a href="https://b7.github.io/michael-weber">Michael Weber</a>**
 
 **Phone: <a href="tel:+31684015534">+316 8401 5534</a>**
 
