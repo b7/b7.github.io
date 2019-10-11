@@ -5,8 +5,6 @@
 
 **Michael Weber**
 
-**For current residence please contact us!**
-
 **Phone: <a href="tel:+31684015534">+316 8401 5534</a>**
 
 **E-Mail: <a href="mailto:b7.github@gmail.com">b7.github@gmail.com</a>**
