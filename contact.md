@@ -3,8 +3,6 @@
 ## Contact
 **b7**
 
-**Michael Weber**
-
 **Phone: <a href="tel:+31684015534">+316 8401 5534</a>**
 
 **WhatsApp: <a href="wa.me/31684015534">+316 8401 5534</a>**
