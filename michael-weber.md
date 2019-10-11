@@ -2,4 +2,6 @@
 
 <img alt="b7" width="300" height="300" src="Michael-Weber.jpg">
 
+Michael Weber
+
 <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
