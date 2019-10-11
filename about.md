@@ -11,8 +11,6 @@
 
 **b is the imperative "be" from "to be"**
 
-**7 is the number we like at most**
-
-**b7 means: be what we like at most**
+**7 is for 7 people being one and joy**
 
 <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
