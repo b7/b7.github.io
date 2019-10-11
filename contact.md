@@ -5,7 +5,7 @@
 
 **Phone: <a href="tel:+31684015534">+316 8401 5534</a>**
 
-**WhatsApp: <a href="wa.me/31684015534">+316 8401 5534</a>**
+**WhatsApp: <a href="https://wa.me/31684015534">+316 8401 5534</a>**
 
 **Messenger: <a href="http://m.me/b7git">m.me/b7git</a>**
 
