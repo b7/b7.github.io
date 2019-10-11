@@ -7,12 +7,8 @@
 
 **WhatsApp: <a href="wa.me/31684015534">+316 8401 5534</a>**
 
+**Messenger: <a href="http://m.me/b7git">m.me/b7git</a>**
+
 **E-Mail: <a href="mailto:b7.github@gmail.com">b7.github@gmail.com</a>**
-
-**<a href="https://twitter.com/b7git">twitter.com/b7git</a>**
-
-**<a href="https://instagram.com/b7git">tnstagram.com/b7git</a>**
-
-**<a href="https://facebook.com/b7git">Facebook.com/b7git</a>**
 
 <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
