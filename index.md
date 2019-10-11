@@ -4,6 +4,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
+# Home b7
 <img alt="b7" src="b7.png"> <strong><font size="5"><a href="https://b7.github.io">Home</a> &nbsp; <a href="https://b7.github.io/about">About</a> &nbsp; <a href="https://b7.github.io/contact">Contact</a></font></strong>
 
 <img alt="b7" width="300" height="300" src="b7.svg">
