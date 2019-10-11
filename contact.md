@@ -7,6 +7,8 @@
 
 **WhatsApp: <a href="https://wa.me/31684015534" target="_blank">+316 8401 5534</a>**
 
+**Telegram: <a href="https://t.me/b7git" target="_blank">t.me/b7git</a>**
+
 **Messenger: <a href="https://m.me/b7git" target="_blank">m.me/b7git</a>**
 
 **E-Mail: <a href="mailto:b7.github@gmail.com">b7.github@gmail.com</a>**
