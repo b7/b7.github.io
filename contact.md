@@ -1,7 +1,6 @@
+<img alt="b7" src="favicon.ico"> <p><strong><font size="5"><a href="https://b7.github.io">Home</a> &nbsp; <a href="https://b7.github.io/about">About</a> &nbsp; <a href="https://b7.github.io/contact">Contact</a></font></strong></p>
+
 ## Contact b7
-
-<p><strong><font size="5"><a href="https://b7.github.io">Home</a> &nbsp; <a href="https://b7.github.io/about">About</a> &nbsp; <a href="https://b7.github.io/contact">Contact</a></font></strong></p>
-
 **b7**
 
 **Michael Weber**
@@ -12,9 +11,9 @@
 
 **WhatsApp: <a href="wa.me/31684015534">+316 8401 5534</a>**
 
-**<a href="https://twitter.com/b7git">Twitter.com/b7git</a>**
+**<a href="https://twitter.com/b7git">twitter.com/b7git</a>**
 
-**<a href="https://instagram.com/b7git">Instagram.com/b7git</a>**
+**<a href="https://instagram.com/b7git">tnstagram.com/b7git</a>**
 
 **<a href="https://facebook.com/b7git">Facebook.com/b7git</a>**
 
