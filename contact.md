@@ -3,12 +3,12 @@
 
 **b7**
 
-**Phone: <a href="tel:+31684015534" target="_blank>+316 8401 5534</a>**
+**Phone: <a href="tel:+31684015534" target="_blank">+316 8401 5534</a>**
 
-**WhatsApp: <a href="https://wa.me/31684015534" target="_blank>+316 8401 5534</a>**
+**WhatsApp: <a href="https://wa.me/31684015534" target="_blank">+316 8401 5534</a>**
 
-**Messenger: <a href="https://m.me/b7git" target="_blank>m.me/b7git</a>**
+**Messenger: <a href="https://m.me/b7git" target="_blank">m.me/b7git</a>**
 
-**E-Mail: <a href="mailto:b7.github@gmail.com" target="_blank>b7.github@gmail.com</a>**
+**E-Mail: <a href="mailto:b7.github@gmail.com" target="_blank">b7.github@gmail.com</a>**
 
 <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
