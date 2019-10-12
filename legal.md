@@ -5,12 +5,12 @@
 
 **Michael Weber**
 
-**Phone: <a href="tel:+31684015534">+316 8401 5534</a>**
-
-**E-Mail: <a href="mailto:b7.github@gmail.com">b7.github@gmail.com</a>**
-
 **Unter den Linden 6**
 
 **10117 Berlin, Germany in the EU**
+
+**Phone: <a href="tel:+31684015534">+316 8401 5534</a>**
+
+**E-Mail: <a href="mailto:b7.github@gmail.com">b7.github@gmail.com</a>**
 
 <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
