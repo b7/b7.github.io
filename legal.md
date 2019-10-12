@@ -9,6 +9,8 @@
 
 **E-Mail: <a href="mailto:b7.github@gmail.com">b7.github@gmail.com</a>**
 
-**Amsterdam in the Netherlands**
+**Unter den Linden 6**
+
+**10117 Berlin, Germany in the EU**
 
 <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
