@@ -1,0 +1,7 @@
+# GRETA THUNBERG SPEECH MONTREAL
+<img alt="b7" width="54" height="54" src="b7.svg"> <strong><font size="5"><a href="https://b7.github.io">Home</a> &nbsp; <a href="https://b7.github.io/about">About</a> &nbsp; <a href="https://b7.github.io/contact">Contact</a></font></strong>
+
+## GRETA THUNBERG SPEECH MONTREAL Video by b7
+<iframe width="320" height="200" src="https://www.youtube.com/embed/UocIKR7gQIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
