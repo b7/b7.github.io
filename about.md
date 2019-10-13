@@ -5,7 +5,7 @@
 
 **[ˈbi ˈsɛvən]**
 
-**b7 is "b7" (b7 and b seven)**
+**b7 is "b7" (b7 and be Seven)**
 
 **b7 is our name**
 
