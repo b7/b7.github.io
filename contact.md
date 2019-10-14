@@ -7,6 +7,8 @@
 
 <strong><font size="5">WhatsApp: <a href="https://wa.me/31684015534" target="_blank">+316 8401 5534</a></font></strong>
 
+<strong><font size="5">Telegram: <a href="https://t.me/b7git" target="_blank">t.me/b7git</a></font></strong>
+
 <strong><font size="5">E-Mail: <a href="mailto:b7.github@gmail.com">b7.github@gmail.com</a></font></strong>
 
 Copyright © 2019 b7 &nbsp; <strong><a href="https://b7.github.io/find">Find</a></strong> &nbsp; <strong><a href="https://b7.github.io/legal">Legal</a></strong>
