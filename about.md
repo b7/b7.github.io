@@ -13,4 +13,6 @@
 
 **7 is 7 people are one and enjoy time**
 
+<strong><font size="5">example</a></font></strong>
+
 <strong><a href="https://b7.github.io/find">Find</a></strong> - <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
