@@ -5,4 +5,4 @@
 
 <strong><font size="5">b7 is "b7" (b7 and be Seven). b7 is our name. b is the imperative "be" from "to be. 7 is 7 people are one and enjoy time</font></strong>
 
-Copyright © 2019 b7 - <strong><a href="https://b7.github.io/find">Find</a></strong> - <strong><a href="https://b7.github.io/legal">Legal</a></strong>
+Copyright © 2019 b7 &nbsp; <strong><a href="https://b7.github.io/find">Find</a></strong> - <strong><a href="https://b7.github.io/legal">Legal</a></strong>
