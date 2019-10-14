@@ -5,7 +5,7 @@
 
 <strong><a href="https://facebook.com/b7git" target="_blank">facebook</a></strong> <strong><a href="https://twitter.com/b7git" target="_blank">twitter.com</a></strong>
 
-<strong><a href="https://instagram.com/b7git/" target="_blank">instagram.com</a></strong> <strong><a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw" target="_blank">YouTube</a></strong>
+<strong><a href="https://instagram.com/b7git/" target="_blank">instagram</a></strong> <strong><a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw" target="_blank">YouTube</a></strong>
 
 <strong><a href="https://minds.com/b7git/" target="_blank">Minds</a></strong> <strong><a href="https://www.soundtrap.com/b7git" target="_blank">Soundtrap</a></strong>
 
