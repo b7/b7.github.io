@@ -3,16 +3,14 @@
 
 **b7**
 
-**[ˈbi ˈsɛvən]**
-
-**b7 is "b7" (b7 and be Seven)**
-
-**b7 is our name**
-
-**b is the imperative "be" from "to be"**
-
 **7 is 7 people are one and enjoy time**
 
-<strong><font size="5">example</a></font></strong>
+<strong><font size="5">b7 [ˈbi ˈsɛvən]</font></strong>
+
+<strong><font size="5">b7 is "b7" (b7 and be Seven). b7 is our name</font></strong>
+
+<strong><font size="5">b is the imperative "be" from "to be"</font></strong>
+
+<strong><font size="5">7 is 7 people are one and enjoy time</font></strong>
 
 <strong><a href="https://b7.github.io/find">Find</a></strong> - <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
