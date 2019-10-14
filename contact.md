@@ -1,7 +1,7 @@
 # Contact
 <img alt="b7" width="54" height="54" src="b7.svg"> <strong><font size="5"><a href="https://b7.github.io">Home</a> &nbsp; <a href="https://b7.github.io/about">About</a> &nbsp; <a href="https://b7.github.io/contact">Contact</a></font></strong>
 
-**Tab Links for contact**
+**Tab a link to contact b7**
 
 <strong><font size="5">Phone: <a href="tel:+31684015534">+316 8401 5534</a></font></strong>
 
