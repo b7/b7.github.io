@@ -5,7 +5,7 @@
 
 <strong><font size="5">Phone: <a href="tel:+31684015534">+316 8401 5534</a></font></strong>
 
-<strong>WhatsApp: <a href="https://wa.me/31684015534" target="_blank">+316 8401 5534</a></font></strong>
+<strong><font size="5">WhatsApp: <a href="https://wa.me/31684015534" target="_blank">+316 8401 5534</a></font></strong>
 
 <strong><font size="5">E-Mail: <a href="mailto:b7.github@gmail.com">b7.github@gmail.com</a></font></strong>
 
