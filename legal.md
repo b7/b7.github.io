@@ -5,9 +5,9 @@
 
 **Michael Weber**
 
-**Unter den Linden 6**
+**Görlitzer Str. 64**
 
-**10117 Berlin, Germany in the EU**
+**10997 Berlin, Germany in the EU**
 
 **Phone: <a href="tel:+31684015534">+316 8401 5534</a>**
 
