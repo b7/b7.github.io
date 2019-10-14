@@ -1,7 +1,7 @@
 # Find
 <img alt="b7" width="54" height="54" src="b7.svg"> <strong><font size="5"><a href="https://b7.github.io">Home</a> &nbsp; <a href="https://b7.github.io/about">About</a> &nbsp; <a href="https://b7.github.io/contact">Contact</a></font></strong>
 
-<strong><font size="4"><a href="https://github.com/b7" target="_blank">github.com/b7</a></strong>
+<strong><font size="4"><a href="https://github.com/b7" target="_blank">github.com/b7</a></font></strong>
 
 <strong><a href="https://facebook.com/b7git" target="_blank">facebook</a></strong> <strong><a href="https://twitter.com/b7git" target="_blank">twitter.com</a></strong>
 
