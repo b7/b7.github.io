@@ -3,8 +3,6 @@
 
 **b7**
 
-**7 is 7 people are one and enjoy time**
-
 <strong><font size="5">b7 [ˈbi ˈsɛvən]</font></strong>
 
 <strong><font size="5">b7 is "b7" (b7 and be Seven). b7 is our name</font></strong>
