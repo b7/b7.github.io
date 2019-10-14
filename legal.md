@@ -13,4 +13,4 @@
 
 **E-Mail: <a href="mailto:b7.github@gmail.com">b7.github@gmail.com</a>**
 
-<strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
+<strong><a href="https://b7.github.io/find">Find</a></strong> - <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
