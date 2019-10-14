@@ -11,4 +11,4 @@
 
 <strong><font size="5"><a href="https://soundcloud.com/b7git" target="_blank">SoundCloud</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://www.soundtrap.com/b7git" target="_blank">Soundtrap</a></font></strong>
 
-<strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
+<strong><a href="https://b7.github.io/find">Find</a></strong> - <strong><a href="https://b7.github.io/legal">Legal</a></strong> Copyright © 2019 b7
