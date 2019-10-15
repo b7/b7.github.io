@@ -3,11 +3,11 @@
 
 **b7**
 
-<strong><font size="5"><a href="https://facebook.com/b7git" target="_blank">facebook</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://twitter.com/b7git" target="_blank">twitter</a></font></strong>
+<strong><font size="5"><a href="https://facebook.com/b7git" target="_blank">facebook</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://twitter.com/b7git" target="_blank">twitter</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://github.com/b7" target="_blank">GitHub</a></font></strong>
 
 <strong><font size="5"><a href="https://instagram.com/b7git/" target="_blank">instagram</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw" target="_blank">YouTube</a></font></strong>
 
-<strong><font size="5"><a href="https://pinterest.de/b7git/" target="_blank">Pinterest</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://minds.com/b7git/" target="_blank">Minds</a></font></strong>
+<strong><font size="5"><a href="https://pinterest.de/b7git/" target="_blank">Pinterest</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://minds.com/b7git/" target="_blank">Minds</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://gitlab.com/b7g" target="_blank">GitLab</a></font></strong>
 
 <strong><font size="5"><a href="https://soundcloud.com/b7git" target="_blank">SoundCloud</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://www.soundtrap.com/b7git" target="_blank">Soundtrap</a></font></strong>
 
