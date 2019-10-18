@@ -5,7 +5,7 @@
 <link rel="manifest" href="/site.webmanifest">
 
 body  {
-  background-image: url("paper.gif");
+  background-image: url("tenor.gif");
 }
 </style>
   
