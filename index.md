@@ -14,14 +14,6 @@ body  {
 </head>
 <img alt="b7" width="54" height="54" src="b7.svg"> <strong><font size="5"><a href="https://b7.github.io">Home</a> &nbsp; <a href="https://b7.github.io/about">About</a> &nbsp; <a href="https://b7.github.io/contact">Contact</a></font></strong>
 
-** **
-
-<p><strong><font size="5"> </font></strong></p>
-
-<p><strong><font size="5"> </font></strong></p>
-
-<p><strong><font size="5"> </font></strong></p>
-
-<p><strong><font size="5"> </font></strong></p>
+<img alt="b7" width="300" height="300" src="b7.svg">
 
 Copyright © 2019 b7 &nbsp; <strong><a href="https://b7.github.io/find">Find</a></strong> &nbsp; <strong><a href="https://b7.github.io/legal">Legal</a></strong>
