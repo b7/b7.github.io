@@ -16,12 +16,12 @@ body  {
 
 ** **
 
-<strong><font size="5"> </font></strong>
+<p><strong><font size="5"> </font></strong></p>
 
-<strong><font size="5"> </font></strong>
+<p><strong><font size="5"> </font></strong></p>
 
-<strong><font size="5"> </font></strong>
+<p><strong><font size="5"> </font></strong></p>
 
-<strong><font size="5"> </font></strong>
+<p><strong><font size="5"> </font></strong></p>
 
 Copyright © 2019 b7 &nbsp; <strong><a href="https://b7.github.io/find">Find</a></strong> &nbsp; <strong><a href="https://b7.github.io/legal">Legal</a></strong>
