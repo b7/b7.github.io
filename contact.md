@@ -5,15 +5,9 @@
 
 <strong><font size="5">Phone: <a href="tel:+31684015534">+316 8401 5534</a></font></strong>
 
-<strong><font size="5"><a href="https://wa.me/31684015534?text=b7" target="_blank">WhatsApp</a></font></strong>
+<strong><font size="5"><a href="https://wa.me/31684015534?text=b7" target="_blank">WhatsApp</a></font></strong> &nbsp; <strong><font size="5"><a href="https://join.skype.com/invite/nDhWzpwNCmpK" target="_blank">Skype</a></font></strong>
 
-<strong><font size="5"><a href="https://join.skype.com/invite/nDhWzpwNCmpK" target="_blank">Skype</a></font></strong>
-
-<strong><font size="5"><a href="https://t.me/b7git" target="_blank">Telegram</a></font></strong>
-
-<strong><font size="5"><a href="https://m.me/b7git" target="_blank">Messenger</a></font></strong>
-
-
+<strong><font size="5"><a href="https://t.me/b7git" target="_blank">Telegram</a></font></strong> &nbsp; <strong><font size="5"><a href="https://m.me/b7git" target="_blank">Messenger</a></font></strong>
 
 <strong><font size="5"><a href="mailto:b7.github@gmail.com" target="_blank">E-Mail</a></font></strong>
 
