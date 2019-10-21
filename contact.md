@@ -7,7 +7,7 @@
 
 <strong><font size="5">WhatsApp: <a href="https://wa.me/31684015534?text=b7" target="_blank">+316 8401 5534</a></font></strong>
 
-<strong><font size="5">Skype: <a href="https://join.skype.com/invite/nDhWzpwNCmpK">skype.com/b7git</a></font></strong>
+<strong><font size="5">Skype: <a href="https://join.skype.com/invite/nDhWzpwNCmpK" target="_blank">skype.com/b7git</a></font></strong>
 
 <strong><font size="5">Telegram: <a href="https://t.me/b7git" target="_blank">t.me/b7git</a></font></strong>
 
