@@ -7,7 +7,7 @@
 
 <strong><font size="5">10997 Berlin, Germany</font></strong>
 
-<strong><font size="5">Phone: +316 844 23 888</font></strong>
+<strong><font size="5">Phone: +316 8401 5534</font></strong>
 
 <strong><font size="5">E-Mail: b7github@gmail.com</font></strong>
 
