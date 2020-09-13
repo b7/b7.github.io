@@ -5,4 +5,4 @@
 
 <strong><font size="5"><a href="mailto:b7.github@gmail.com" target="_blank">E-Mail</a></font></strong>
 
-Copyright © 2019 b7 &nbsp; &nbsp; <strong><a href="https://b7.github.io/legal">Legal</a></strong>
+<strong><a href="https://b7.github.io/legal">Legal</a></strong> | Copyright © 2020 b7
