@@ -8,4 +8,4 @@
 
 <img alt="b7" width="300" height="300" src="b7.svg">
 
-<strong><a href="https://b7.github.io/legal">Legal</a></strong> | Copyright © 2020 b7
+<strong><a href="https://b7.github.io/legal">Legal</a></strong> &nbsp; Copyright © 2020 b7
