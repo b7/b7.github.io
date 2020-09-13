@@ -3,7 +3,7 @@
 
 <strong><font size="5">b7 Universal</font></strong>
 
-<strong><font size="5">Görlitzer Str. 62</font></strong>
+<strong><font size="5">Görlitzer Str. 64</font></strong>
 
 <strong><font size="5">10997 Berlin, Germany</font></strong>
 
