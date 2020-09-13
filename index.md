@@ -8,4 +8,4 @@
 
 <img alt="b7" width="300" height="300" src="b7.svg">
 
-Copyright © 2019 b7 &nbsp; <strong><a href="https://b7.github.io/find">Find</a></strong> &nbsp; <strong><a href="https://b7.github.io/legal">Legal</a></strong>
+Copyright © 2019 b7 &nbsp; &nbsp; <strong><a href="https://b7.github.io/legal">Legal</a></strong>
