@@ -11,4 +11,4 @@
 
 <strong><font size="5">7 for seven people</font></strong>
 
-Copyright © 2019 b7 &nbsp; &nbsp; <strong><a href="https://b7.github.io/legal">Legal</a></strong>
+<strong><a href="https://b7.github.io/legal">Legal</a></strong> | Copyright © 2020 b7
