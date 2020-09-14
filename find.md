@@ -3,7 +3,7 @@
 
 **b7**
 
-<strong><font size="5"><a href="https://facebook.com/b7git" target="_blank">facebook</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://twitter.com/b7git" target="_blank">twitter</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://github.com/b7" target="_blank">GitHub</a></font></strong>
+<strong><strong><font size="5"><a href="https://twitter.com/b7git" target="_blank">twitter</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://github.com/b7" target="_blank">GitHub</a></font></strong>
 
 <strong><font size="5"><a href="https://instagram.com/b7git/" target="_blank">instagram</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw" target="_blank">YouTube</a></font></strong>
 
