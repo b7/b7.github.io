@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- Template: b7 1.0.1 by b7-->
 <html>
 <title>b7 | b7.github.io</title>
 <meta name="description" content="b7 | b7.github.io">
