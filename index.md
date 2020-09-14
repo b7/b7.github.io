@@ -1,11 +1,198 @@
+<!DOCTYPE html>
+<!-- Template: b7 1.0.1 by b7-->
+<html>
+<title>b7 | b7.github.io</title>
+<meta name="description" content="b7 | b7.github.io">
+<meta name="keywords" content="b7 | b7.github.io">
+<meta name="robots" content="index, follow">
+<meta name="copyright" content="b7 | b7.github.io">
+<meta name="language" content="EN">
+<meta name="author" content="b7 | b7.github.io">
+<meta name="creationdate" content="01-01-2017">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <head>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Ubuntu", Ubuntu}
+body, html {
+  height: 100%;
+  line-height: 1.8;
+</style>
+<style>
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+  background-image: url("b7.gif");
+  min-height: 100%;
+}
+.w3-bar .w3-button {
+  padding: 16px;
+</style>
 </head>
-<img alt="b7" width="54" height="54" src="b7.svg"> <strong><font size="5"><a href="https://b7.github.io">Home</a> &nbsp; <a href="https://b7.github.io/about">About</a> &nbsp; <a href="https://b7.github.io/contact">Contact</a></font></strong>
-
-<img alt="b7" width="300" height="300" src="b7.svg">
-
-<strong><a href="https://b7.github.io/legal">Legal</a></strong> &nbsp; Copyright © 2020 b7
+<body>
+<!-- Navbar  -->
+<div class="w3-top">
+  <div class="w3-bark w3-card" id="myNavbar">
+    <strong><a href="https://b7.github.io/" class="w3-xlarge w3-bar-item w3-button w3-wide">b7.github.io</a></strong>
+    <!-- RightSidedNavbarLinks -->
+    <div class="w3-right w3-hide-small">
+      <a href="#home" class="w3-bar-item w3-button w3-wide"><strong>HOME</strong></a>
+      <a href="#about" class="w3-bar-item w3-button w3-wide"><strong>ABOUT</strong></a>
+      <a href="#contact" class="w3-bar-item w3-button w3-wide"><strong>CONTACT</strong></a>
+    </div>
+    <!-- HideRightFloatedLinksOnSmallScreensAndReplaceThemWithMenuIcon -->
+    <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+</div>
+<!-- SidebarOnSmallScreensWhenClickingTheMenuIcon -->
+<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
+      <a href="#home" class="w3-bar-item w3-button w3-wide"><strong>HOME</strong></a>
+      <a href="#about" class="w3-bar-item w3-button w3-wide"><strong>ABOUT</strong></a>
+      <a href="#contact" class="w3-bar-item w3-button w3-wide"><strong>CONTACT</strong></a>
+</nav>
+<!-- HeaderWithFullHeightImage -->
+<header class="bgimg-1 w3-display-container" id="home">
+  <div class="w3-display-left w3-text-black" style="padding:64px">
+    <span class="w3-jumbo w3-hide-small">b7 | b7.github.io</span><br>
+    <span class="w3-xxlarge w3-hide-large w3-hide-medium">b7 | b7.github.io</span><br>
+    <span class="w3-xlarge">Be Seven</span><br>
+    <span class="w3-xxlarge">b7</span><br>
+    <p><a href="#about" class="w3-button w3-black w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">ABOUT b7</a></p>
+  </div>
+</header>
+<!-- About -->
+<div class="w3-container w3-indigo" style="padding:24px 16px" id="about">
+  <br>
+  <h3 class="w3-center">ABOUT b7</h3>
+  <div class="w3-row w3-center">
+    <div class="w3-quarter">
+      <i class="fa fa-line-chart w3-margin-bottom w3-jumbo"></i>
+      <p class="w3-xlarge">S E O</p>
+      <p>Search Engine Optimization. Following Webmasters Guidelines Of Google</p>
+    </div>
+    <div class="w3-quarter">
+      <i class="fa fa-mobile w3-margin-bottom w3-jumbo w3-center"></i>
+      <p class="w3-xlarge">Responsive Web Design</p>
+      <p>Our Websites Are Fully Responsive For All Types & Sizes Of Screens. <a href="http://ami.responsivedesign.is/?url=https://b7.github.io" target="_blank">Responsive Test</a></p>
+    </div>
+    <div class="w3-quarter">
+      <i class="fa fa-keyboard-o w3-margin-bottom w3-jumbo"></i>
+      <p class="w3-xlarge">Programming</p>
+      <p>We Speak HTML Visual Basic Java JavaScript PHP CSS CMS SQL Python C++ & More</p>
+    </div>
+    <div class="w3-quarter">
+      <i class="fa fa-lock w3-margin-bottom w3-jumbo"></i>
+      <p class="w3-xlarge">Security</p>
+      <p>Secured Sites With HTTPS. SSL End-To-End Encryption. Protects Your Site & Users</p>
+    </div>
+  </div>
+</div>
+<!-- PromoStats" -->
+<div class="w3-container w3-row w3-center w3-dark-grey w3-padding-32">
+  <div class="w3-quarter">
+    <span class="w3-xxlarge">7+</span>
+    <br>Partners
+  </div>
+  <div class="w3-quarter">
+    <span class="w3-xxlarge">33+</span>
+    <br>Clients
+  </div>
+  <div class="w3-quarter">
+    <span class="w3-xxlarge">51+</span>
+    <br>Projects
+  </div>
+  <div class="w3-quarter">
+    <span class="w3-xxlarge">157+</span>
+    <br>Leads
+  </div>
+</div>
+<!-- Skills -->
+<div class="w3-container w3-light-grey w3-padding-16">
+  <center><p><a href="#contact" class="w3-button w3-black">CONTACT US</a></p></center>
+  <div class="w3-row">
+    <div class="w3-col m6">
+      <center><h3>Skills</h3></center>
+      <center><p>This Website Is Made With Bootstrap A CSS Framework</p></center>
+      <center><p>We Create Sites & OnlineShopss With All Kind Of Systems With Everything You Need</p></center>
+      <center><p>Social Networking, Social Media, APPs & APIs For Each Kind Of Use</p></center>
+      <center><p><a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fb7.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights</a></p></center>
+    </div>
+    <div class="w3-col m6">
+      <center><h3>References</h3></center>
+      <center><p>Client: Green Island Vaporshop</p></center>
+      <center><p>SEO: Google Rank #1 "vaporizer in hannover" "vaporizer shop in hannover"</p></center>
+      <center><p>Webdesign: Design, Programming, OnlineShop, Social Media Optimiation, Media & Trust</p></center>
+      <center><p><a href="https://green-island-vaporizer.com" target="_blank">green-island-vaporizer.com</a></p></center>
+    </div>
+   </div>
+  </div>
+</div>
+<!-- Contact -->
+<div class="w3-container w3-indigo" style="padding:24px 16px" id="contact">
+  <br>
+  <h3 class="w3-center">CONTACT</h3>
+    <p><center><font size="5"><a href="tel:+316"><strong>Call</a></strong></font></center></p>
+    <p><center><font size="5"><a href="https://wa.me/?text=b7" target="_blank"><strong>WhatsApp</strong></a></font></center></p>
+    <p><center><font size="5"><a href="https://b7.github.io/" target="_blank"><strong>Messenger</strong></a></font></center></p>
+    <p><center><font size="5"><a href="mailto:b7github@gmail.com" target="_blank"><strong>Mail</strong></a></font></center></p><br>
+  <h3 class="w3-center">FIND US</h3>
+    <p><center><font size="5"><a href="https://b7.github.io/" target="_blank">Facebook</a></font><center></p>
+    <p><center><font size="5"><a href="https://b7.github.io/" target="_blank">Twitter</a></font><center></p>
+    <p><center><font size="5"><a href="https://b7.github.io/" target="_blank">YouTube</a></font><center></p>
+    <p><center><font size="5"><a href="https://b7.github.io/" target="_blank">Instagram</a></font><center></p>
+    <p><center><font size="5"><a href="https://b7.github.io/" target="_blank">LinkedIn</a></font><center></p>
+    <p><center><font size="5"><a href="https://b7.github.io/" target="_blank">Minds</a></font><center></p>
+    <p><center><font size="5"><a href="https://b7.github.io/" target="_blank">SoundCloud</a></font><center></p>
+    <p><center><font size="5"><a href="https://b7.github.io/" target="_blank">LiveJournal</a></font><center></p><br>
+<a href="#home" class="w3-button w3-green">To The top</a>
+<!-- Footer -->
+<div class="w3-container w3-center w3-padding-16">
+ <details>
+  <summary><font size="4">Legal Disclosure</font></font></summary>
+<p><h4>Information in accordance with Section 5 TMG</h4></p>
+<p>b7 Universal<br>Görlitzer Straße 64<br>Bezirk Friedrichshain-Kreuzberg<br>10997 Berlin</p>
+<h4>Contact Information</h4>
+<p>Telephone: 00316<br>E-Mail: b7github@gmail.com<br>Internet address: b7.github.io</p>
+<h4>Disclaimer</h4>
+<h4>Accountability for content</h4>
+<p>The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents&#8217; accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this matter, please note that we are not obliged to monitor the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity. Our obligations to remove or block the use of information under generally applicable laws remain unaffected by this as per §§ 8 to 10 of the Telemedia Act (TMG).</p>
+<h4>Accountability for links</h4>
+<p>Responsibility for the content of external links (to web pages of third parties) lies solely with the operators of the linked pages. No violations were evident to us at the time of linking. Should any legal infringement become known to us, we will remove the respective link immediately.</p>
+<h4>Copyright</h4>
+<p>Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law, every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are only allowed for private use. The materials from these pages are copyrighted and any unauthorized use may violate copyright laws.</p>
+</details>
+<p>Copyright © 2020 b7</p>
+</footer>
+</div>
+<script>
+// ModalImageGallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+// ToggleBetweenShowingHidingSidebarWhenClickingMenuIcon
+var mySidebar = document.getElementById("mySidebar");
+function w3_open() {
+  if (mySidebar.style.display === 'block') {
+    mySidebar.style.display = 'none';
+  } else {
+    mySidebar.style.display = 'block';
+  }
+}
+// CloseTheSidebarWithTheCloseButton
+function w3_close() {
+    mySidebar.style.display = "none";
+}
+</script>
+</body>
+</html>
