@@ -24,11 +24,10 @@ body, html {
   line-height: 1.8;
 </style>
 <style>
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%; 
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+  background-image: url("b7.gif");
   min-height: 100%;
 }
 .w3-bar .w3-button {
@@ -59,14 +58,6 @@ body, html {
       <a href="#about" class="w3-bar-item w3-button w3-wide"><strong>ABOUT</strong></a>
       <a href="#contact" class="w3-bar-item w3-button w3-wide"><strong>CONTACT</strong></a>
 </nav>
-<!-- BackroundVideo -->
-<video autoplay muted loop id="myVideo">
-  <source src="b7.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
-<script>
-var video = document.getElementById("myVideo");
-</script>
 <!-- HeaderWithFullHeightImage -->
 <header class="bgimg-1 w3-display-container" id="home">
   <div class="w3-display-left w3-text-black" style="padding:64px">
