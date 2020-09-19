@@ -41,8 +41,6 @@ body {
 **HTTPS & SSL End-To-End Encryption**
 
 ### Services
-**We Make Systems Up And Running**
-
 **SEO WebDesign & OnlineShops & More**
 
 **<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">PageSpeedInsights</a>**
