@@ -1,5 +1,5 @@
 <head>
-<link rel="icon" type="image/vnd.microsoft.icon" href="/b7.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://b7.github.io/b7.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 img {
