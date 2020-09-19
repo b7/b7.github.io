@@ -49,7 +49,7 @@ body {
 
 **WordPress Developer, W3C Member**
 
-**GitHub <a href="https://github.com/b7" target="_blank">Arctic Code Vault Contributor</a>**
+**<a href="https://github.com/b7" target="_blank">GitHub Arctic Code Vault Contributor</a>**
 
 <img src="/Ex-G-Sys.jpg" alt="Ex G Sys" width="300" height="300">
 
