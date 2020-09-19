@@ -42,7 +42,7 @@ body {
 
 ### References
 
-**Google Developers Experts W3C Member**
+**W3C Experts Google Developers Experts**
 
 **GitHub Developer WordPress Developer**
 
