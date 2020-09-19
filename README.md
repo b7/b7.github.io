@@ -37,14 +37,14 @@ body {
 ### Security
 **HTTPS & SSL End-To-End Encryption**
 
-### SKILLS
+### Skills
 **This Site Is Made With HTML**
 
 **SEO, SMO, Websites & OnlineShops**
 
 **<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">PageSpeedInsights</a>**
 
-### REFERENCES
+### References
 **Google Developers Experts**
 
 **WordPress Developer, W3C Member**
