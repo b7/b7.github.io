@@ -25,6 +25,9 @@ body {
 <strong><font size="5">Research Institute</font></strong>
 
 ## ABOUT
+### Research
+**Artificial Intelligence & Computer Science
+
 ### SEO
 **Search Engine Optimization**
 
@@ -38,7 +41,9 @@ body {
 **HTTPS & SSL End-To-End Encryption**
 
 ### Services
-**We make your Website Up and running**
+**Research in Computer Science**
+
+**We make Systems Up and running**
 
 **SEO, SMO, Websites & OnlineShops**
 
