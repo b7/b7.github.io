@@ -41,18 +41,16 @@ body {
 **HTTPS & SSL End-To-End Encryption**
 
 ### Services
-**Research in Ai & Computer Science**
+**We Make Systems Up And Running**
 
-**We make Systems Up and running**
-
-**SEO, SMO, Websites & OnlineShops**
+**SEO Webdesign & OnlineShops & More**
 
 **<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">PageSpeedInsights</a>**
 
 ### References
 **Google Developers Experts**
 
-**WordPress Developer, W3C Member**
+**WordPress Developer W3C Member**
 
 **<a href="https://github.com/b7" target="_blank">GitHub Arctic Code Vault Contributor</a>**
 
