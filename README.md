@@ -10,12 +10,12 @@
 }
 </style>
 <style>
-h1 {
+h4 {
   font-size: 180px;
 }
 </style>
 <style>
-h1 {
+h4 {
   color: blue;
 }
 </style>
@@ -35,7 +35,7 @@ body {
 </head>
 **<a href="https://b7.github.io" >HOME</a>&nbsp; <a href="https://b7.github.io/#about" >ABOUT</a>&nbsp; <a href="https://b7.github.io/#contact" >CONTACT</a>&nbsp; <a href="https://b7.github.io/legal" >LEGAL</a>**
 
-<h1 class="ubuntu" style="font-size:180px;">b7</h1>
+<h4 class="ubuntu" style="font-size:180px;">b7</h4>
 
 <strong><font size="5">Research Institute</font></strong>
 
