@@ -24,14 +24,14 @@ body {
 
 <strong><font size="5">Research Institute</font></strong>
 
-### **ABOUT**
+### ABOUT
 ### Research
 **Ai & Computer Science**
 
 ### SEO
 **Search Engine Optimization**
 
-### Responsive Web Design
+### WebDesign
 **Responsive To All Screens**
 
 ### Programming
@@ -43,7 +43,7 @@ body {
 ### Services
 **We Make Systems Up And Running**
 
-**SEO Webdesign & OnlineShops & More**
+**SEO WebDesign & OnlineShops & More**
 
 **<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">PageSpeedInsights</a>**
 
