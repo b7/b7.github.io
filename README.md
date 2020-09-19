@@ -24,9 +24,9 @@ body {
 
 <strong><font size="5">Research Institute</font></strong>
 
-## ABOUT
+### **ABOUT**
 ### Research
-**Artificial Intelligence & Computer Science
+**Artificial Intelligence & Computer Science**
 
 ### SEO
 **Search Engine Optimization**
