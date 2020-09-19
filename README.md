@@ -1,9 +1,9 @@
 
 <head>
-<link rel="apple-touch-icon" sizes="180x180" href="https://b7.github.io/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://b7.github.io/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://b7.github.io/favicon-16x16.png">
-<link rel="manifest" href="https://b7.github.io/site.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 img {
@@ -51,7 +51,7 @@ body {
 
 **<a href="https://github.com/b7" target="_blank">Arctic Code Vault Contributor</a>**
 
-<img src="https://b7.github.io/Ex-G-Sys.jpg" alt="Ex G Sys" width="300" height="300">
+<img src="/Ex-G-Sys.jpg" alt="Ex G Sys" width="300" height="300">
 
 **Ex G Sys - Founder & CEO of b7**
 
