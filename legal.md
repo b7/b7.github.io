@@ -1,36 +1,29 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <link rel="icon" type="image/vnd.microsoft.icon" href="https://b7.github.io/b7.ico">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+<style>
+body {
+  background-image: url('b7.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
+</head>
+<strong><font size="4"><a href="https://b7.github.io" >Home</a>&nbsp;&nbsp;<a href="https://b7.github.io/legal" >Legal</a></font></strong>
 
-<!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Legal | b7.github.io</title>
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Legal" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="b7" />
-<meta property="og:description" content="b7" />
-<link rel="canonical" href="https://b7.github.io/legal.html" />
-<meta property="og:url" content="https://b7.github.io/legal.html" />
-<meta property="og:site_name" content="b7.github.io" />
-<script type="application/ld+json">
-{"@type":"WebPage","url":"https://b7.github.io/legal.html","headline":"Legal","description":"b7","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+<strong><font size="7">Legal</font></strong>
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=72c63d96e4a4809e788585636926f0eecb3e74aa">
-  </head>
-<body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://b7.github.io/">b7.github.io</a></h1>
-      
-<p><strong><font size="4"><a href="https://b7.github.io" >Home</a>&nbsp;&nbsp;<a href="https://b7.github.io/legal" >Legal</a></font></strong></p>
-<p><strong><font size="7">Legal</font></strong></p>
+<strong><font size="5">Legal Disclosure</font></strong>
 
-<font size="4">Legal Disclosure</font></font></summary>
 <p><h4>Information in accordance with Section 5 TMG</h4></p>
 <p>b7<br>Görlitzer Straße 22<br>Bezirk Friedrichshain-Kreuzberg<br>10997 Berlin</p>
 <h4>Contact Information</h4>
