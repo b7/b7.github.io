@@ -61,4 +61,4 @@ body {
 ## FIND
 <strong><a href="https://github.com/b7" target="_blank">GithHub</a></strong>&nbsp;&nbsp;<strong><a href="https://instagram.com/b7git" target="_blank">instagram</a></strong>&nbsp;&nbsp;<strong><a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw/about" target="_blank">YouTube</a></strong>
 
-Copyright © 2019 - 2020 ictg
+Copyright © 2019 - 2020 b7
