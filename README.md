@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 h1 {
-  font-size: 40px;
+  font-size: 80px;
 }
 </style>
 <style>
