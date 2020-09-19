@@ -18,7 +18,7 @@ body {
 }
 </style>
 </head>
-**<a href="https://b7.github.io" >Home</a> &nbsp; <a href="https://b7.github.io/#about" >About</a> &nbsp; <a href="https://b7.github.io/#contact" >Contact</a> &nbsp; <a href="https://b7.github.io/legal" >Legal</a>**
+**<a href="https://b7.github.io" >HOME</a>&nbsp; <a href="https://b7.github.io/#about" >ABOUT</a>&nbsp; <a href="https://b7.github.io/#contact" >CONTACT</a>&nbsp; <a href="https://b7.github.io/legal" >LEGAL</a>**
 
 <strong><font size="7">Legal</font></strong>
 
