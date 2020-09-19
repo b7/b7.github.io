@@ -5,9 +5,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-h1 {
-  font-size: 180px;
-}
+h1 { font-size: 1em }
 img {
   border-radius: 50%;
 }
