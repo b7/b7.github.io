@@ -11,7 +11,7 @@
 </style>
 <style>
 h4 {
-  font-size: 200px;
+  font-size: 100px;
 }
 </style>
 <style>
@@ -35,7 +35,7 @@ body {
 </head>
 **<a href="https://b7.github.io" >HOME</a>&nbsp; <a href="https://b7.github.io/#about" >ABOUT</a>&nbsp; <a href="https://b7.github.io/#contact" >CONTACT</a>&nbsp; <a href="https://b7.github.io/legal" >LEGAL</a>**
 
-<h4 class="ubuntu" style="font-size:200px;">b7</h4>
+<h4 class="ubuntu" style="font-size:100px;">b7</h4>
 ### Research Institute
 
 ### ABOUT
