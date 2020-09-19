@@ -5,6 +5,11 @@
 <link rel="manifest" href="/site.webmanifest">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+h1 {
+  font-size: 40px;
+}
+</style>
+<style>
 img {
   border-radius: 50%;
 }
@@ -20,7 +25,7 @@ body {
 </head>
 **<a href="https://b7.github.io" >HOME</a>&nbsp; <a href="https://b7.github.io/#about" >ABOUT</a>&nbsp; <a href="https://b7.github.io/#contact" >CONTACT</a>&nbsp; <a href="https://b7.github.io/legal" >LEGAL</a>**
 
-<strong><font size="8">b7</font></strong>
+# b7
 
 <strong><font size="5">Research Institute</font></strong>
 
