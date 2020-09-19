@@ -37,7 +37,7 @@ body {
 
 <h4 class="ubuntu" style="font-size:180px;">b7</h4>
 
-<strong><font class="ubuntu" size="5">Research Institute</font></strong>
+<font class="ubuntu" size="5">Research Institute</font>
 
 ### ABOUT
 ### Research
