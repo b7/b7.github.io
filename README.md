@@ -18,7 +18,7 @@ body {
 }
 </style>
 </head>
-**<a href="https://b7.github.io" >Home</a>&nbsp;&nbsp;<a href="https://b7.github.io/#about" >About</a>&nbsp;&nbsp;<a href="https://b7.github.io/#contact" >Contact</a>&nbsp;&nbsp;<a href="https://b7.github.io/legal" >Legal</a>**
+**<a href="https://b7.github.io" >Home</a> &nbsp; <a href="https://b7.github.io/#about" >About</a> &nbsp; <a href="https://b7.github.io/#contact" >Contact</a> &nbsp; <a href="https://b7.github.io/legal" >Legal</a>**
 
 <strong><font size="7">b7</font></strong>
 
@@ -59,6 +59,6 @@ body {
 **<a href="tel:+31600000000">Call</a> &nbsp;&nbsp; <a href="https://wa.me/31600000000?text=b7" target="_blank">WhatsApp</a> &nbsp;&nbsp; <a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a>**
 
 ## FIND
-**<a href="https://github.com/b7" target="_blank">GithHub</a>&nbsp;&nbsp;><a href="https://instagram.com/b7git" target="_blank">instagram</a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw/about" target="_blank">YouTube</a>**
+**<a href="https://github.com/b7" target="_blank">GithHub</a> &nbsp; <a href="https://instagram.com/b7git" target="_blank">instagram</a> &nbsp; <a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw/about" target="_blank">YouTube</a>**
 
 Copyright © 2019 - 2020 b7
