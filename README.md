@@ -41,10 +41,10 @@ body {
 **HTTPS & SSL End-To-End Encryption**
 
 ### Services
-**SEO WebDesign & OnlineShops & More*
+**SEO WebDesign & OnlineShops & More**
 
 ### References
-**<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">PageSpeed Insights</a>**
+**<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a>**
 
 **Google Developers Experts**
 
