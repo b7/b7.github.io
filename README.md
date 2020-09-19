@@ -1,8 +1,5 @@
 <head>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
+<link rel="icon" type="image/vnd.microsoft.icon" href="b7.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 img {
@@ -45,7 +42,9 @@ body {
 
 ## REFERENCES
 **Google Developers Experts**
+
 **WordPress Developer, W3C Member**
+
 **<a href="https://github.com/b7" target="_blank">Arctic Code Vault Contributor</a>**
 
 <img src="https://b7.github.io/Ex-G-Sys.jpg" alt="Ex G Sys" width="300" height="300">
