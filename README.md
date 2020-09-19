@@ -5,6 +5,11 @@
 <link rel="manifest" href="/site.webmanifest">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+.ubuntu {
+  font-family: "Ubuntu";
+}
+</style>
+<style>
 h1 {
   font-size: 80px;
 }
@@ -25,7 +30,7 @@ body {
 </head>
 **<a href="https://b7.github.io" >HOME</a>&nbsp; <a href="https://b7.github.io/#about" >ABOUT</a>&nbsp; <a href="https://b7.github.io/#contact" >CONTACT</a>&nbsp; <a href="https://b7.github.io/legal" >LEGAL</a>**
 
-<h1 style="font-size:20vw;">b7</h1>
+<h1 class="ubuntu" style="font-size:20vw;">>b7</h1></h1>
 
 <strong><font size="5">Research Institute</font></strong>
 
