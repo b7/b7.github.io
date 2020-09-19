@@ -5,12 +5,13 @@
 <link rel="manifest" href="/site.webmanifest">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-h1 { font-size: 1em }
 img {
   border-radius: 50%;
 }
 </style>
 <style>
+
+h1 { font-size: 1em }
 body {
   background-image: url('b7.gif');
   background-repeat: no-repeat;
@@ -21,7 +22,7 @@ body {
 </head>
 ### <a href="https://b7.github.io" >Home</a>&nbsp;&nbsp;<a href="https://b7.github.io/legal" >Legal</a>
 
-<h1><strong>b7</strong></h1>
+<h1>b7</h1>
 **Research Institute**
 
 ## ABOUT
