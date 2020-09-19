@@ -41,11 +41,12 @@ body {
 **HTTPS & SSL End-To-End Encryption**
 
 ### References
-**<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a>**
 
 **Google Developers Experts W3C Member**
 
 **GitHub Developer WordPress Developer**
+
+**<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a>**
 
 **<a href="https://github.com/b7" target="_blank">GitHub Arctic Code Vault Contributor</a>**
 
