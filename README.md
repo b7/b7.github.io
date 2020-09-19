@@ -37,8 +37,8 @@ body {
 ### Security
 **HTTPS & SSL End-To-End Encryption**
 
-### Skills
-**This Site Is Made With HTML**
+### Services
+**We make your Website Up and running**
 
 **SEO, SMO, Websites & OnlineShops**
 
