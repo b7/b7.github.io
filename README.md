@@ -44,7 +44,7 @@ body {
 **SEO WebDesign & OnlineShops & More*
 
 ### References
-**<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">PageSpeedInsights</a>**
+**<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">PageSpeed Insights</a>**
 
 **Google Developers Experts**
 
