@@ -15,6 +15,11 @@ h1 {
 }
 </style>
 <style>
+h1 {
+  color: blue;
+}
+</style>
+<style>
 img {
   border-radius: 50%;
 }
