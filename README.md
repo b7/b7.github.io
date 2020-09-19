@@ -10,8 +10,6 @@ img {
 }
 </style>
 <style>
-
-h1 { font-size: 1em }
 body {
   background-image: url('b7.gif');
   background-repeat: no-repeat;
@@ -20,10 +18,10 @@ body {
 }
 </style>
 </head>
-### <a href="https://b7.github.io" >Home</a>&nbsp;&nbsp;<a href="https://b7.github.io/legal" >Legal</a>
+# <a href="https://b7.github.io" >Home</a>&nbsp;&nbsp;<a href="https://b7.github.io/legal" >Legal</a>
 
-# b7
-**Research Institute**
+<strong><font size="7">b7</a></font></strong>
+Research Institute<strong><font size="5">Research Institute</a></font></strong>
 
 ## ABOUT
 ### SEO
