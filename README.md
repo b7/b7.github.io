@@ -26,7 +26,7 @@ body {
 
 ## ABOUT
 ### SEO
-**Search Engine Optimiyation**
+**Search Engine Optimization**
 
 ### Responsive Web Design
 **Responsive To All Screens**
