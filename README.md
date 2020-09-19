@@ -32,7 +32,7 @@ body {
 **Responsive To All Screens**
 
 ### Programming
-**HTML PHP CSS CMS SQL C++ & More**
+**HTML PHP CSS CMS SQL & More**
 
 ### Security
 **HTTPS & SSL End-To-End Encryption**
