@@ -38,4 +38,3 @@ body {
 </details>
 
 Copyright © 2019 - 2020 b7
-  </body>
