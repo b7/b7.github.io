@@ -36,7 +36,6 @@ body {
 **<a href="https://b7.github.io" >HOME</a>&nbsp; <a href="https://b7.github.io/#about" >ABOUT</a>&nbsp; <a href="https://b7.github.io/#contact" >CONTACT</a>&nbsp; <a href="https://b7.github.io/legal" >LEGAL</a>**
 
 <h4 class="ubuntu" style="font-size:180px;">b7</h4>
-
 <font class="ubuntu" size="5">Research Institute</font>
 
 ### ABOUT
