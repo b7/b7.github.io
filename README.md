@@ -38,9 +38,9 @@ body {
 **HTTPS & SSL End-To-End Encryption**
 
 ## SKILLS
-**This Site Is Made With A CSS Framework**
+**This Site Is Made With HTML**
 
-**Websites & OnlineShops With All Kind Of Systems**
+**SEO, SMO, Websites & OnlineShops**
 
 **<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">PageSpeedInsights</a>**
 
