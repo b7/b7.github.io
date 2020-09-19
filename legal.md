@@ -18,7 +18,7 @@ body {
 }
 </style>
 </head>
-<strong><font size="4"><a href="https://b7.github.io" >Home</a>&nbsp;&nbsp;<a href="https://b7.github.io/#about" >About</a>&nbsp;&nbsp;<a href="https://b7.github.io/#contact" >Contact</a>&nbsp;&nbsp;<a href="https://b7.github.io/legal" >Legal</a></font></strong>
+**<a href="https://b7.github.io" >Home</a> &nbsp; <a href="https://b7.github.io/#about" >About</a> &nbsp; <a href="https://b7.github.io/#contact" >Contact</a> &nbsp; <a href="https://b7.github.io/legal" >Legal</a>**
 
 <strong><font size="7">Legal</font></strong>
 
@@ -35,5 +35,11 @@ body {
 <p>Responsibility for the content of external links (to web pages of third parties) lies solely with the operators of the linked pages. No violations were evident to us at the time of linking. Should any legal infringement become known to us, we will remove the respective link immediately.</p>
 <h4>Copyright</h4>
 <p>Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law, every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are only allowed for private use. The materials from these pages are copyrighted and any unauthorized use may violate copyright laws.</p>
+
+## CONTACT
+**<a href="tel:+31600000000">Call</a> &nbsp;&nbsp; <a href="https://wa.me/31600000000?text=b7" target="_blank">WhatsApp</a> &nbsp;&nbsp; <a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a>**
+
+## FIND
+**<a href="https://github.com/b7" target="_blank">GithHub</a> &nbsp; <a href="https://instagram.com/b7git" target="_blank">instagram</a> &nbsp; <a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw/about" target="_blank">YouTube</a>**
 
 Copyright © 2019 - 2020 b7
