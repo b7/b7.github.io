@@ -21,7 +21,8 @@ body {
 <strong><font size="4"><a href="https://b7.github.io" >Home</a>&nbsp;&nbsp;<a href="https://b7.github.io/legal" >Legal</a></font></strong>
 
 <strong><font size="7">b7</a></font></strong>
-Research Institute<strong><font size="5">Research Institute</a></font></strong>
+
+<strong><font size="5">Research Institute</a></font></strong>
 
 ## ABOUT
 ### SEO
