@@ -22,7 +22,7 @@ body {
 </head>
 ### <a href="https://b7.github.io" >Home</a>&nbsp;&nbsp;<a href="https://b7.github.io/legal" >Legal</a>
 
-<h1>b7</h1>
+# b7
 **Research Institute**
 
 ## ABOUT
