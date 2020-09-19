@@ -26,7 +26,7 @@ body {
 
 ### **ABOUT**
 ### Research
-**Artificial Intelligence & Computer Science**
+**Ai & Computer Science**
 
 ### SEO
 **Search Engine Optimization**
@@ -41,7 +41,7 @@ body {
 **HTTPS & SSL End-To-End Encryption**
 
 ### Services
-**Research in Computer Science**
+**Research in Ai & Computer Science**
 
 **We make Systems Up and running**
 
