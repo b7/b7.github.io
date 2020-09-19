@@ -56,7 +56,7 @@ body {
 **Ex G Sys - Founder & CEO of b7**
 
 ## CONTACT
-<strong><font size="5"><a href="tel:+31600000000">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="5"> <a href="https://wa.me/31600000000?text=ictg" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a></font></strong>
+<strong><font size="5"><a href="tel:+31600000000">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="5"> <a href="https://wa.me/31600000000?text=b7" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a></font></strong>
 
 ## FIND
 <strong><a href="https://github.com/b7" target="_blank">GithHub</a></strong>&nbsp;&nbsp;<strong><a href="https://instagram.com/b7git" target="_blank">instagram</a></strong>&nbsp;&nbsp;<strong><a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw/about" target="_blank">YouTube</a></strong>
