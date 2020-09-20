@@ -28,18 +28,13 @@ body {
 **Ai & Computer Science**
 ### SEO
 **Search Engine Optimization**
-
 ### WebDesign
 **Responsive To All Screens**
-
 ### Programming
 **HTML PHP CSS CMS SQL & More**
-
 ### Security
 **HTTPS & SSL End-To-End Encryption**
-
 ### References
-
 **W3C Experts Google Developers Experts**
 
 **GitHub Developer WordPress Developer**
@@ -47,10 +42,8 @@ body {
 **<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a>**
 
 **<a href="https://github.com/b7" target="_blank">GitHub Arctic Code Vault Contributor</a>**
-
 ### CONTACT
 **<a href="tel:+31600000000">Call</a>&nbsp; <a href="https://wa.me/31600000000?text=b7" target="_blank">WhatsApp</a>&nbsp; <a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a>**
-
 ### FIND
 **<a href="https://github.com/b7" target="_blank">GithHub</a>&nbsp; <a href="https://instagram.com/b7git" target="_blank">instagram</a>&nbsp; <a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw/about" target="_blank">YouTube</a>**
 
