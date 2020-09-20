@@ -25,7 +25,7 @@ body {
 <strong><font size="5">Legal Disclosure</font></strong>
 
 <p><h4>Information in accordance with Section 5 TMG</h4></p>
-<p>Kai Adam | b7<br>Görlitzer Straße 22<br>Bezirk Friedrichshain-Kreuzberg<br>10997 Berlin</p>
+<p>Kai Adam | CEO b7<br>Görlitzer Straße 22<br>Bezirk Friedrichshain-Kreuzberg<br>10997 Berlin</p>
 <h4>Contact Information</h4>
 <p>E-Mail: b7github@gmail.com<br>Internet address: b7.github.io</p>
 <h4>Disclaimer</h4>
