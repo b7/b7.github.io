@@ -48,7 +48,7 @@ body {
 
 **<a href="https://github.com/b7" target="_blank">GitHub Arctic Code Vault Contributor</a>**
 
-<img src="Kai-Adam.png" alt="Kai Adam" style="width:280px">
+<img src="Kai-Adam.png" alt="Kai Adam" style="width:250px">
 
 **Kai Adam - CEO & Founder Of b7**
 
