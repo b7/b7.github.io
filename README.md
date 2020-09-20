@@ -54,10 +54,6 @@ body {
 
 **<a href="https://github.com/b7" target="_blank">GitHub Arctic Code Vault Contributor</a>**
 
-<img src="/Ex-G-Sys.jpg" alt="Ex G Sys" width="300" height="300">
-
-**Ex G Sys - Founder & CEO of b7**
-
 ### CONTACT
 **<a href="tel:+31600000000">Call</a>&nbsp; <a href="https://wa.me/31600000000?text=b7" target="_blank">WhatsApp</a>&nbsp; <a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a>**
 
