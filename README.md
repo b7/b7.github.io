@@ -10,16 +10,6 @@
 }
 </style>
 <style>
-h4 {
-  font-size: 100px;
-}
-</style>
-<style>
-h4 {
-  color: blue;
-}
-</style>
-<style>
 img {
   border-radius: 50%;
 }
