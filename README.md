@@ -10,6 +10,11 @@
 }
 </style>
 <style>
+img {
+  border-radius: 50%;
+}
+</style>
+<style>
 body {
   background-image: url('b7.gif');
   background-repeat: no-repeat;
@@ -42,6 +47,9 @@ body {
 **<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a>**
 
 **<a href="https://github.com/b7" target="_blank">GitHub Arctic Code Vault Contributor</a>**
+
+<img src="Kai-Adam.png" alt="Kai Adam" style="width:300px">
+
 ### CONTACT
 **<a href="tel:+31600000000">Call</a> <a href="https://wa.me/31600000000?text=b7" target="_blank">WhatsApp</a> <a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a>**
 ### FIND
