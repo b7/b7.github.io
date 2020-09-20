@@ -10,11 +10,6 @@
 }
 </style>
 <style>
-img {
-  border-radius: 50%;
-}
-</style>
-<style>
 body {
   background-image: url('b7.gif');
   background-repeat: no-repeat;
@@ -31,7 +26,6 @@ body {
 ### ABOUT
 ### Research
 **Ai & Computer Science**
-
 ### SEO
 **Search Engine Optimization**
 
