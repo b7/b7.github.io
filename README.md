@@ -57,6 +57,6 @@ body {
 ### FIND
 **<a href="https://github.com/b7" target="_blank">GithHub</a> <a href="https://instagram.com/b7git" target="_blank">instagram</a> <a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw/about" target="_blank">YouTube</a>**
 
-<p class="ubuntu" style="font-size:100px ; color:blue">b7</p>
+<p class="ubuntu" style="font-size:80px ; color:blue">b7</p>
 
 Copyright © 2019 - 2020 b7
