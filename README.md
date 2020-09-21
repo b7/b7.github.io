@@ -53,12 +53,9 @@ body {
 
 **Kai Adam - CEO & Founder Of b7**
 
-**<a href="tel:+31600000000">Call</a>**
-
-**<a href="https://wa.me/31600000000?text=b7" target="_blank">WhatsApp</a>**
-
-**<a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a>**
-
+### **<a href="tel:+31600000000">Call</a>**
+### **<a href="https://wa.me/31600000000?text=b7" target="_blank">WhatsApp</a>**
+### **<a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a>**
 ### FIND
 **<a href="https://github.com/b7" target="_blank">GithHub</a> <a href="https://instagram.com/b7git" target="_blank">instagram</a> <a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw/about" target="_blank">YouTube</a>**
 
