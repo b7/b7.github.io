@@ -37,9 +37,21 @@ body {
 <p>Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law, every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are only allowed for private use. The materials from these pages are copyrighted and any unauthorized use may violate copyright laws.</p>
 
 ### CONTACT
-**<a href="tel:+31600000000">Call</a> <a href="https://wa.me/31600000000?text=b7" target="_blank">WhatsApp</a> <a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a>**
+<img src="Kai-Adam.png" alt="Kai Adam" style="width:250px">
+
+**Kai Adam - CEO & Founder Of b7**
+
+**<a href="tel:+31600000000">Call</a>**
+
+**<a href="https://wa.me/31600000000?text=b7" target="_blank">WhatsApp</a>**
+
+**<a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a>**
 
 ### FIND
-**<a href="https://github.com/b7" target="_blank">GithHub</a> <a href="https://instagram.com/b7git" target="_blank">instagram</a> <a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw/about" target="_blank">YouTube</a>**
+**<a href="https://github.com/b7" target="_blank">GithHub</a>**
+
+**<a href="https://instagram.com/b7git" target="_blank">instagram</a>**
+
+**<a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw/about" target="_blank">YouTube</a>**
 
 Copyright © 2019 - 2020 b7
