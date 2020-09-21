@@ -28,7 +28,7 @@ body {
 <p class="ubuntu" style="font-size:150px ; color:blue">b7</p>
 <p class="ubuntu" style="font-size:20px">Research Institute</p>
 
-### ABOUT
+### **ABOUT**
 ### Research
 **Ai & Computer Science**
 ### SEO
