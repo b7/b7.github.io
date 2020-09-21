@@ -46,7 +46,7 @@ body {
 
 **<a href="https://support.google.com/business/profile/71867432" target="_blank">Google My Business Community</a>**
 
-**<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https://b7.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a>**
+**<a href="https://developers.google.com/speed/pagespeed/insights/?&url=https://b7.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a>**
 
 **<a href="https://github.com/b7" target="_blank">GitHub Arctic Code Vault Contributor</a>**
 
