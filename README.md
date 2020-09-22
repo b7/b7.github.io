@@ -23,7 +23,6 @@ body {
 }
 </style>
 </head>
-<audio src="b7.mp3" autoplay=""></audio>
 **<a href="https://b7.github.io" >HOME</a> <a href="https://b7.github.io/#about" >ABOUT</a> <a href="https://b7.github.io/#contact" >CONTACT</a> <a href="https://b7.github.io/legal" >LEGAL</a>**
 
 <p class="ubuntu" style="font-size:130px ; color:blue">b7</p>
