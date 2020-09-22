@@ -42,7 +42,7 @@ body {
 
 **In Universe Town**
 
-**Please Register In Advance!
+**Please Register In Advance!**
 
 **Use Links Below ▼**
 
