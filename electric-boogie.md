@@ -10,7 +10,6 @@
 }
 </style>
 <style>
-<style>
 img {
   border-radius: 50%;
 }
