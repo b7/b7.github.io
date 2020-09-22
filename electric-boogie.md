@@ -35,7 +35,7 @@ body {
 ### Electric Boogie WorkShop
 ### With Kai & Love
 ### Every Tuesday 11:00 o'clock
-### In XXXXX Straat - Utrecht
+### In XXXXX Street in xxxxxTown
 
 ### CONTACT
 **Kai Adam - CEO & Founder Of b7**
