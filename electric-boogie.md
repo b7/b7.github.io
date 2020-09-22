@@ -34,7 +34,8 @@ body {
 <p class="ubuntu" style="font-size:130px ; color:blue">b7</p>
 ### Electric Boogie
 ### WorkShop With Kai & Love
-### Wednesday 30th Of September, 14:00 o'clock
+### Wednesday 30th Of September
+### 14:00 o'clock
 ### In Universe Street 1, In Universe Town
 
 ### CONTACT
