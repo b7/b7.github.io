@@ -10,11 +10,6 @@
 }
 </style>
 <style>
-body {
-  color: white;
-}
-</style>
-<style>
 img {
   border-radius: 50%;
 }
