@@ -46,7 +46,7 @@ body {
 ### FIND
 **<a href="https://github.com/b7" target="_blank">GithHub</a>**
 
-**<a href="https://instagram.com/b7git" target="_blank">instagram</a>**
+**<a href="https://facebook.com/b7.github.io" target="_blank">facebook</a>**
 
 **<a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw/about" target="_blank">YouTube</a>**
 
