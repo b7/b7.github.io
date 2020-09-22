@@ -48,6 +48,4 @@ body {
 
 **<a href="https://facebook.com/b7.github.io" target="_blank">facebook</a>**
 
-**<a href="https://www.youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw/about" target="_blank">YouTube</a>**
-
 Copyright © 2019 - 2020 b7
