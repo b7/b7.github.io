@@ -9,11 +9,6 @@
   font-family: "Ubuntu";
 }
 </style>
-  <style>
-body {
-  color: white;
-}
-</style>
 <style>
 img {
   border-radius: 50%;
@@ -21,7 +16,7 @@ img {
 </style>
 <style>
 body {
-  background-image: url('electric.gif');
+  background-image: url('b7.gif');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
