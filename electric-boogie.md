@@ -21,7 +21,7 @@ img {
 </style>
 <style>
 body {
-  background-image: url('electric.gif');
+  background-image: url('electric-boogie');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
