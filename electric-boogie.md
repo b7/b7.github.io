@@ -35,7 +35,7 @@ body {
 ### Electric Boogie
 ### WorkShop With Kai & Love
 ### Every Tuesday 11:00 o'clock
-### In XXXXX Street In xxxxx Town
+### In Universe Street 1, In Universe Town
 
 ### CONTACT
 **Kai Adam - CEO & Founder Of b7**
