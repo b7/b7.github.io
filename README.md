@@ -16,7 +16,7 @@ img {
 </style>
 <style>
 body {
-  background-image: url('b7.gif');
+  background-image: url('elctric.gif');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
