@@ -37,11 +37,13 @@ body {
 <p>Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law, every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are only allowed for private use. The materials from these pages are copyrighted and any unauthorized use may violate copyright laws.</p>
 
 ### CONTACT
-**<a href="tel:+31600000000">Call</a>**
+<img src="Kai-Adam.png" alt="Kai Adam" width="250px" height="250">
 
-**<a href="https://wa.me/31600000000?text=b7" target="_blank">WhatsApp</a>**
+**Kai Adam - CEO & Founder Of b7**
 
 **<a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a>**
+
+**<a href="https://m.me/b7.github.io" target="_blank">Messenger</a>**
 
 ### FIND
 **<a href="https://github.com/b7" target="_blank">GithHub</a>**
