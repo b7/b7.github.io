@@ -34,13 +34,13 @@ body {
 ### Electric Boogie
 **WorkShop With Kai & Love**
 
-**Wednesday, 30th Of September**
+**Wednesday, September 30**
 
 **14:00 o'clock**
 
-**In Universe Street 1**
+**Universe Street 1**
 
-**In Universe Town**
+**Universe Town**
 
 **Please Register In Advance!**
 
