@@ -33,9 +33,9 @@ body {
 
 <p class="ubuntu" style="font-size:130px ; color:blue">b7</p>
 ### Electric Boogie
-### WorkShop
-### Every Tuesday 11:00 o'çlock**
-### In XXXXX - XXXXX
+### WorkShop With Kai & Love
+### Every Tuesday 11:00 o'clock
+### In XXXXX Straat - Utrecht
 
 ### CONTACT
 **Kai Adam - CEO & Founder Of b7**
