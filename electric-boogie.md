@@ -36,7 +36,7 @@ body {
 ### Wednesday, 30th Of September
 ### 14:00 o'clock
 ### In Universe Street 1, In Universe Town
-**Please Register In advance! Use Links Below ▼**
+**Please Register In Advance & Use Links Below ▼**
 
 ### CONTACT
 <img src="Kai-Adam.png" alt="Kai Adam" width="250px" height="250">
