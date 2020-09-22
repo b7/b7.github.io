@@ -44,7 +44,7 @@ body {
 
 **Please Register In Advance!**
 
-**Use Links Below ▼**<h2 id="contact">▼</h2>
+**Use Links Below **<a href="https://b7.github.io/#contact" >▼</a>
 
 ### CONTACT
 <img src="Kai-Adam.png" alt="Kai Adam" width="250px" height="250">
