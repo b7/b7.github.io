@@ -44,7 +44,7 @@ body {
 
 **Please Register In Advance!**
 
-**Use Links Below ▼**
+**Use Links Below ▼**<h2 id="contact">▼</h2>
 
 ### CONTACT
 <img src="Kai-Adam.png" alt="Kai Adam" width="250px" height="250">
