@@ -32,8 +32,8 @@ body {
 **<a href="https://b7.github.io" >HOME</a> <a href="https://b7.github.io/#about" >ABOUT</a> <a href="https://b7.github.io/#contact" >CONTACT</a> <a href="https://b7.github.io/legal" >LEGAL</a>**
 
 <p class="ubuntu" style="font-size:130px ; color:blue">b7</p>
-### Electric Boogie
-### WorkShop With Kai & Love
+### Electric Boogie WorkShop
+### With Kai & Love
 ### Every Tuesday 11:00 o'clock
 ### In XXXXX Straat - Utrecht
 
