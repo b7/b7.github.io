@@ -52,4 +52,6 @@ body {
 
 **<a href="https://facebook.com/b7.github.io" target="_blank">facebook</a>**
 
+**<a href="https://instagram.com/b7githubio" target="_blank">Instagram</a>**
+
 Copyright © 2019 - 2020 b7
