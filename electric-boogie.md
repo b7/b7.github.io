@@ -32,11 +32,19 @@ body {
 
 <p class="ubuntu" style="font-size:130px ; color:blue">b7</p>
 ### Electric Boogie
-### WorkShop With Kai & Love
-### Wednesday, 30th Of September
-### 14:00 o'clock
-### In Universe Street 1, In Universe Town
-**Please Register In Advance & Use Links Below ▼**
+**WorkShop With Kai & Love**
+
+**Wednesday, 30th Of September**
+
+**14:00 o'clock**
+
+**In Universe Street 1**
+
+**In Universe Town**
+
+**Please Register In Advance!
+
+**Use Links Below ▼**
 
 ### CONTACT
 <img src="Kai-Adam.png" alt="Kai Adam" width="250px" height="250">
