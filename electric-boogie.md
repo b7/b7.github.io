@@ -44,7 +44,7 @@ body {
 
 **Please Register In Advance!**
 
-**Use Links Below <a href="https://b7.github.io/electric-boogie#contact" >▼</a>**
+### Via <a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a> Or <a href="https://m.me/b7.github.io" target="_blank">Messenger</a>**
 
 ### CONTACT
 <img src="Kai-Adam.png" alt="Kai Adam" width="250px" height="250">
