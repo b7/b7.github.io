@@ -32,7 +32,7 @@ body {
 
 **Wednesday, September 30**
 
-**14:00 o'clock**
+**14:00 o'clock @ LdH, For Free**
 
 **Nieuwegracht 92 in Utrecht**
 
