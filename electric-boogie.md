@@ -34,7 +34,7 @@ body {
 
 **14:00 o'clock**
 
-**Nieuwegracht 92 in Utrecht
+**Nieuwegracht 92 in Utrecht**
 
 **Please Register In Advance!**
 
