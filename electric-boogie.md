@@ -28,6 +28,7 @@ body {
 <p class="ubuntu" style="font-size:130px ; color:blue">b7</p>
 ### Electric Boogie
 **WorkShop With Kai & Love**
+
 <img src="electric-boogie.png" alt="Electric Boogie" width="250px" height="250">
 
 **Wednesday, September 30**
