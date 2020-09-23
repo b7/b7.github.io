@@ -16,7 +16,7 @@ img {
 </style>
 <style>
 body {
-  background-image: url('electric-boogie.png');
+  background-image: url('b7.gif');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
@@ -42,7 +42,7 @@ body {
 **Via <a href="mailto:	b7.github@gmail.com" target="_blank">Mail</a> Or <a href="https://m.me/b7.github.io" target="_blank">Messenger</a>**
 
 ### CONTACT
-<img src="Kai-Adam.png" alt="Kai Adam" width="250px" height="250">
+<img src="electric-boogie.png" alt="Electric Boogie" width="250px" height="250">
 
 **Kai Adam - CEO & Founder Of b7**
 
