@@ -34,9 +34,7 @@ body {
 
 **14:00 o'clock**
 
-**Universe Street 1**
-
-**Universe Town**
+**Nieuwegracht 92 in Utrecht
 
 **Please Register In Advance!**
 
