@@ -53,7 +53,7 @@ body {
 
 **WordPress Developer**
 
-**<a href="https://github.com/b7" target="_blank">GitHub Arctic Code Vault Contributor</a>**
+**<a href="https://github.com/b7" target="_blank">GitHub Code Contributor</a>**
 
 ### Tests
 **<a href="https://search.google.com/test/mobile-friendly?url=https://b7.github.io" target="_blank">Google Mobile Friendly Test</a>**
