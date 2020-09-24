@@ -39,13 +39,17 @@ body {
 ### Security
 **HTTPS & SSL End-To-End Encryption**
 ### References
-**W3C Experts Google Developers Experts**
+**<a href="https://www.w3.org/users/126380" target="_blank">W3C Member</a> Google Developers Experts**
 
 **GitHub Developer WordPress Developer**
 
+**<a href="https://github.com/b7" target="_blank">GitHub Arctic Code Vault Contributor</a>**
+
+**<a href="https://search.google.com/test/mobile-friendly?url=https://b7.github.io" target="_blank">Google Mobile Friendly Test</a>**
+
 **<a href="https://developers.google.com/speed/pagespeed/insights/?&url=https://b7.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a>**
 
-**<a href="https://github.com/b7" target="_blank">GitHub Arctic Code Vault Contributor</a>**
+**<a href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https://b7.github.io" target="_blank">Lighthouse Report</a>**
 
 ### CONTACT
 <img src="Kai-Adam.png" alt="Kai Adam" width="250px" height="250">
