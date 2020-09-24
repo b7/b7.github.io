@@ -39,7 +39,7 @@ body {
 ### Security
 **HTTPS & SSL End-To-End Encryption**
 ### References
-**<a href="https://www.w3.org/users/126380" target="_blank">W3C Member</a> Google Developers Experts**
+**<a https://www.w3.org/community/lbd/wiki/User:Kaiadam" target="_blank">W3C Member</a> Google Developers Experts**
 
 **GitHub Developer WordPress Developer**
 
