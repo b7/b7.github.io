@@ -47,9 +47,9 @@ body {
 **<a href="https://vvv.clan.rip" target="_blank">WordPress Page</a>**
 
 ### References
-**<a href="https://www.w3.org/community/lbd/wiki/User:Kaiadam#Kai_Adam" target="_blank">W3C Member</a> Google Developers Experts**
+**<a href="https://www.w3.org/community/lbd/wiki/User:Kaiadam#Kai_Adam" target="_blank">W3C Member</a> Google Developer**
 
-**GitHub Developer WordPress Developer**
+**WordPress Developer**
 
 **<a href="https://github.com/b7" target="_blank">GitHub Arctic Code Vault Contributor</a>**
 
