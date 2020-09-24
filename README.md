@@ -47,13 +47,13 @@ body {
 **<a href="https://vvv.clan.rip" target="_blank">WordPress Page</a>**
 
 ### References
-**<a href="https://www.w3.org/community/lbd/wiki/User:Kaiadam#Kai_Adam" target="_blank">W3C Member</a>**
-
-**Google Developer**
+**<a href="https://github.com/b7" target="_blank">GitHub Code Contributor</a>**
 
 **WordPress Developer**
 
-**<a href="https://github.com/b7" target="_blank">GitHub Code Contributor</a>**
+**Google Developer**
+
+**<a href="https://www.w3.org/community/lbd/wiki/User:Kaiadam#Kai_Adam" target="_blank">W3C Member</a>**
 
 ### Tests
 **<a href="https://search.google.com/test/mobile-friendly?url=https://b7.github.io" target="_blank">Google Mobile Friendly Test</a>**
