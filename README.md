@@ -40,9 +40,11 @@ body {
 **HTTPS & SSL End-To-End Encryption**
 
 ### Examples
-**WordPress Page: <a href="https://vvv.clan.rip" target="_blank">vvv.clan.rip</a>**
+**<a href="https://b7.github.io" target="_blank">HTML Page</a>**
 
-**CSS Page: <a href="https://b7.github.io/css-page" target="_blank">b7.github.io</a>**
+**<a href="https://b7.github.io/css-page" target="_blank">CSS Page</a>**
+
+**<a href="https://vvv.clan.rip" target="_blank">WordPress Page</a>**
 
 ### References
 **<a href="https://www.w3.org/community/lbd/wiki/User:Kaiadam#Kai_Adam" target="_blank">W3C Member</a> Google Developers Experts**
