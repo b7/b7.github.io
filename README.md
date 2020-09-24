@@ -40,11 +40,11 @@ body {
 **HTTPS & SSL End-To-End Encryption**
 
 ### Examples
+**<a href="https://vvv.clan.rip" target="_blank">WordPress Page</a>**
+
 **<a href="https://b7.github.io" target="_blank">HTML Page</a>**
 
 **<a href="https://b7.github.io/css-page" target="_blank">CSS Page</a>**
-
-**<a href="https://vvv.clan.rip" target="_blank">WordPress Page</a>**
 
 ### References
 **<a href="https://github.com/b7" target="_blank">GitHub Code Contributor</a>**
