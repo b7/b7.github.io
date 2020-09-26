@@ -24,7 +24,7 @@ body {
 </style>
 </head>
 
-<a class="ubuntu" style="font-size:22px">ShortLink <a href="https://qti.ai/b7" target="_blank">q t i . a i / b 7</a>
+**ShortLink <a href="https://qti.ai/b7" target="_blank">qti.ai/b7</a>**
 
 **<a href="https://b7.github.io" >HOME</a> <a href="https://b7.github.io/#about" >ABOUT</a> <a href="https://b7.github.io/#contact" >CONTACT</a> <a href="https://b7.github.io/legal" >LEGAL</a>**
 
