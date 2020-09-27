@@ -25,7 +25,7 @@ body {
 
 <strong><font size="7">Peecee</font></strong>
 
-<img src="peecee.png" alt="Kai Adam" width="250px" height="250" />
+<img src="peecee.png" alt="Peecee" width="250px" height="250" />
 
 **Listen Peecee <audio src="/peecee.mp3" controls=""></audio>**
 
