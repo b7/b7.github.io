@@ -52,11 +52,11 @@ body {
 ### References
 **<a href="https://github.com/b7" target="_blank">GitHub Code Contributor</a>**
 
+**<a href="https://scienceopen.com/user/kaiadam" target="_blank">ScienceOpen Member</a>**
+
 **WordPress Developer**
 
 **Google Developer**
-
-**<a href="https://scienceopen.com/user/kaiadam" target="_blank">ScienceOpen Member</a>**
 
 **<a href="https://www.w3.org/community/opengov/wiki/User:Kaiadam" target="_blank">W3C Member</a>**
 
