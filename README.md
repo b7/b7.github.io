@@ -32,16 +32,11 @@ body {
 ### Research Institute
 ### ABOUT
 ### Research
-**Ai & Computer Science**
+### Ai & Computer Science
 ### SEO
-**Search Engine Optimization**
-### WebDesign
-**Responsive To All Screens**
+### Responsive Web Design
 ### Programming
-**HTML PHP CSS CMS SQL & More**
 ### Security
-**HTTPS & SSL End-To-End Encryption**
-
 ### Examples
 **<a href="https://vvv.clan.rip" target="_blank">WordPress Page</a>**
 
@@ -62,8 +57,6 @@ body {
 **<a href="https://search.google.com/test/mobile-friendly?url=https://b7.github.io" target="_blank">Google Mobile Friendly Test</a>**
 
 **<a href="https://developers.google.com/speed/pagespeed/insights/?&url=https://b7.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a>**
-
-**<a href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https://b7.github.io" target="_blank">Lighthouse Report</a>**
 
 ### CONTACT
 <img src="Kai-Adam.png" alt="Kai Adam" width="250px" height="250">
