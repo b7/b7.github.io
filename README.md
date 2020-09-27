@@ -54,8 +54,6 @@ body {
 
 **<a href="https://scienceopen.com/user/kaiadam" target="_blank">ScienceOpen Member</a>**
 
-**WordPress Developer**
-
 **<a href="https://meetup.com/gdg-berlin/members/317209905" target="_blank">Google Developer</a>**
 
 **<a href="https://w3.org/community/opengov/wiki/User:Kaiadam" target="_blank">W3C Member</a>**
