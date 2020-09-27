@@ -56,9 +56,9 @@ body {
 
 **Google Developer**
 
-**<a href="https://www.w3.org/community/opengov/wiki/User:Kaiadam" target="_blank">W3C Member</a>**
+**<a href="https://scienceopen.com/user/kaiadam" target="_blank">ScienceOpen Member</a>**
 
-**<a href="https://scienceopen.com/user/kaiadam" target="_blank">ScienceOpen</a>**
+**<a href="https://www.w3.org/community/opengov/wiki/User:Kaiadam" target="_blank">W3C Member</a>**
 
 ### Tests
 **<a href="https://search.google.com/test/mobile-friendly?url=https://b7.github.io" target="_blank">Google Mobile Friendly Test</a>**
