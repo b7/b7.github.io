@@ -18,12 +18,14 @@ body {
 }
 </style>
 </head>
-<audio src="peecee.mp3" autoplay=""></audio>
+
 **ShortLink: <a href="https://qti.ai/b7" target="_blank">qti.ai/b7</a>**
 
 **<a href="https://b7.github.io" >HOME</a> <a href="https://b7.github.io/#about" >ABOUT</a> <a href="https://b7.github.io/#contact" >CONTACT</a> <a href="https://b7.github.io/legal" >LEGAL</a>**
 
 <strong><font size="7">Peecee</font></strong>
+<p>Listen Peecee</p>
+<audio src="/peecee.mp3" controls=""></audio>
 ### Peecee
 this story is dedicated to all children of this earth and to all adults who have not lost the child in themselves. the beginning of the story is the "importance of peaceful action". i have experienced violence myself and learned from it that it never leads to a sensible solution. especially children who are affected by violence suffer lifelong damage. mostly some of the violence is passed on to the next generation. I wrote peecee in the hope that they would read my story to their children, that they would be peacefully influenced by it, that they would treat their own children more peacefully, so that perhaps in seven generations it would reach everyone.
 peecee
