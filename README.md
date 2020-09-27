@@ -31,7 +31,6 @@ body {
 <p class="ubuntu" style="font-size:130px ; color:blue">b7</p>
 ### Research Institute
 ### ABOUT
-### Research
 ### Ai & Computer Science
 ### SEO
 ### Responsive Web Design
@@ -43,6 +42,8 @@ body {
 **<a href="https://b7.github.io/css-page" target="_blank">CSS Page</a>**
 
 ### References
+**<a href="https://developers.google.com/speed/pagespeed/insights/?&url=https://b7.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a>**
+
 **<a href="https://github.com/b7" target="_blank">GitHub Code Contributor</a>**
 
 **<a href="https://scienceopen.com/user/kaiadam" target="_blank">ScienceOpen Member</a>**
@@ -50,11 +51,6 @@ body {
 **<a href="https://meetup.com/gdg-berlin/members/317209905" target="_blank">Google Developer</a>**
 
 **<a href="https://w3.org/community/opengov/wiki/User:Kaiadam" target="_blank">W3C Member</a>**
-
-### Tests
-**<a href="https://search.google.com/test/mobile-friendly?url=https://b7.github.io" target="_blank">Google Mobile Friendly Test</a>**
-
-**<a href="https://developers.google.com/speed/pagespeed/insights/?&url=https://b7.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a>**
 
 ### CONTACT
 <img src="Kai-Adam.png" alt="Kai Adam" width="250px" height="250">
