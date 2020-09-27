@@ -52,6 +52,8 @@ body {
 ### References
 **<a href="https://github.com/b7" target="_blank">GitHub Code Contributor</a>**
 
+**<a href="https://scienceopen.com/user/kaiadam" target="_blank">ScienceOpen</a>**
+
 **WordPress Developer**
 
 **Google Developer**
