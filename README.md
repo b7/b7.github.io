@@ -40,8 +40,6 @@ body {
 ### Examples
 **<a href="https://vvv.clan.rip" target="_blank">WordPress Page</a>**
 
-**<a href="https://b7.github.io" target="_blank">HTML Page</a>**
-
 **<a href="https://b7.github.io/css-page" target="_blank">CSS Page</a>**
 
 ### References
