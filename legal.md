@@ -55,6 +55,10 @@ body {
 
 **<a href="https://github.com/b7" target="_blank">GithHub</a>**
 
+**<a href="https://www.freecodecamp.org/b7g" target="_blank">freeCodeCamp</a>**
+
+**<a href="https://www.linkedin.com/in/kai-adam" target="_blank">Linkedin</a>**
+
 **<a href="https://twitter.com/b7git" target="_blank">twitter</a>**
 
 **<a href="https://facebook.com/b7.github.io" target="_blank">facebook</a>**
