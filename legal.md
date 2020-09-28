@@ -23,6 +23,8 @@ body {
 
 **<a href="https://b7.github.io" >HOME</a> <a href="https://b7.github.io/#about" >ABOUT</a> <a href="https://b7.github.io/#contact" >CONTACT</a> <a href="https://b7.github.io/legal" >LEGAL</a>**
 
+**Children's story: <a href="https://b7.github.io/peecee" >Peecee</a>**
+
 <strong><font size="7">Legal</font></strong>
 
 <strong><font size="5">Legal Disclosure</font></strong>
