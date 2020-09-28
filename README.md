@@ -28,6 +28,8 @@ body {
 
 **<a href="https://b7.github.io" >HOME</a> <a href="https://b7.github.io/#about" >ABOUT</a> <a href="https://b7.github.io/#contact" >CONTACT</a> <a href="https://b7.github.io/legal" >LEGAL</a>**
 
+**Children's story: <a href="https://b7.github.io/peecee" >Peecee</a>**
+
 <p class="ubuntu" style="font-size:130px ; color:blue">b7</p>
 ### Research Institute
 ### ABOUT
