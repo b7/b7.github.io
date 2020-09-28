@@ -24,6 +24,7 @@ body {
 **<a href="https://b7.github.io" >HOME</a> <a href="https://b7.github.io/#about" >ABOUT</a> <a href="https://b7.github.io/#contact" >CONTACT</a> <a href="https://b7.github.io/legal" >LEGAL</a>**
 
 <strong><font size="7">Peecee</font></strong>
+
 **children's story**
 
 <img src="peecee.png" alt="Peecee" width="250px" height="250" />
