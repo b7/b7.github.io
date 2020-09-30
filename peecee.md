@@ -77,14 +77,16 @@ By Kai Adam
 
 **<a href="https://github.com/b7" target="_blank">GithHub</a>**
 
-**<a href="https://www.freecodecamp.org/b7g" target="_blank">freeCodeCamp</a>**
+**<a href="https://freecodecamp.org/b7g" target="_blank">freeCodeCamp</a>**
 
-**<a href="https://www.linkedin.com/in/kai-adam" target="_blank">Linkedin</a>**
+**<a href="https://linkedin.com/in/kai-adam" target="_blank">Linkedin</a>**
 
 **<a href="https://twitter.com/b7git" target="_blank">twitter</a>**
 
 **<a href="https://facebook.com/b7.github.io" target="_blank">facebook</a>**
 
 **<a href="https://instagram.com/b7.github.io" target="_blank">Instagram</a>**
+
+**<a href="https://minds.com/b7git/" target="_blank">MINDS</a>**
 
 Copyright © 2019 - 2020 b7
