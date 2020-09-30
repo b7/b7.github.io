@@ -57,6 +57,8 @@ body {
 
 **<a href="https://freecodecamp.org/b7g" target="_blank">freeCodeCamp</a>**
 
+**<a href="https://youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw" target="_blank">YouTube</a>**
+
 **<a href="https://linkedin.com/in/kai-adam" target="_blank">Linkedin</a>**
 
 **<a href="https://twitter.com/b7git" target="_blank">twitter</a>**
