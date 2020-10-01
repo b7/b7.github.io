@@ -68,9 +68,9 @@ body {
 
 **<a href="https://github.com/b7" target="_blank">GithHub</a> <a href="https://freecodecamp.org/b7g" target="_blank">freeCodeCamp</a>**
 
-**<a href="https://google.com/maps/d/viewer?mid=1iLILLpat1vu0706gWIXKOhdcLtmeoTx9" target="_blank">Maps</a> <a href="https://orcid.org/0000-0001-7640-7251" target="_blank">ORCID</a> <a href="https://minds.com/b7git/" target="_blank">MINDS</a>**
+**<a href="https://gitshowcase.com/b7" target="_blank">gitshowcase</a> <a href="https://gitmemory.com/b7" target="_blank">gitmemory</a>**
 
-**<a href="https://gitshowcase.com/b7" target="_blank">gitshocase</a> <a href="https://gitmemory.com/b7" target="_blank">gitmemor</a>**
+**<a href="https://google.com/maps/d/viewer?mid=1iLILLpat1vu0706gWIXKOhdcLtmeoTx9" target="_blank">Maps</a> <a href="https://orcid.org/0000-0001-7640-7251" target="_blank">ORCID</a> <a href="https://minds.com/b7git/" target="_blank">MINDS</a>**
 
 **<a href="https://angel.co/b7g" target="_blank">Angel</a> <a href="https://b7.neocities.org" target="_blank">neocities</a>**
 
