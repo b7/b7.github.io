@@ -54,7 +54,7 @@ body {
 
 **<a href="https://w3.org/community/opengov/wiki/User:Kaiadam" target="_blank">W3C Member</a>**
 
-<a title="Customer reviews of b7.github.io" href="https://www.webwiki.com/b7.github.io target="_blank"><img src="https://www.webwiki.com/etc/rating/widget/1321036474/b7-github-io-rating-round-150.png" alt="Reviews of b7.github.io" /></a>
+<a title="Customer reviews of b7.github.io" href="https://www.webwiki.com/b7.github.io" target="_blank><img src="https://www.webwiki.com/etc/rating/widget/1321036474/b7-github-io-rating-round-150.png" alt="Reviews of b7.github.io" /></a>
 
 ### CONTACT
 <img src="Kai-Adam.png" alt="Kai Adam" width="250px" height="250">
