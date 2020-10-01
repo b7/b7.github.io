@@ -54,8 +54,6 @@ body {
 
 **<a href="https://w3.org/community/opengov/wiki/User:Kaiadam" target="_blank">W3C Member</a>**
 
-<a title="Customer reviews of b7.github.io" href="https://www.webwiki.com/b7.github.io"  target="_blank"><img src="https://www.webwiki.com/etc/rating/widget/1321036474/b7-github-io-rating-round-150.png" alt="Reviews of b7.github.io" /></a>
-
 ### CONTACT
 <img src="Kai-Adam.png" alt="Kai Adam" width="250px" height="250">
 
@@ -78,8 +76,8 @@ body {
 
 **<a href="https://gitshowcase.com/b7" target="_blank">GITSHOWCASE</a>** **<a href="https://gitmemory.com/b7" target="_blank">gitmemor</a>**
 
-**<a href="https://angel.co/b7g" target="_blank">Angel</a>** **<a href="https://b7.neocities.org" target="_blank">neocities</a>**
+**<a href="https://angel.co/b7g" target="_blank">Angel</a> <a href="https://b7.neocities.org" target="_blank">neocities</a> <a href="https://medium.com/@b7g" target="_blank">Medium</a>**
 
-**<a href="https://medium.com/@b7g" target="_blank">Medium</a>**
+<a title="Customer reviews of b7.github.io" href="https://www.webwiki.com/b7.github.io"  target="_blank"><img src="https://www.webwiki.com/etc/rating/widget/1321036474/b7-github-io-rating-round-150.png" alt="Reviews of b7.github.io" /></a>
 
 Copyright © 2019 - 2020 b7
