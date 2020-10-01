@@ -55,24 +55,20 @@ body {
 **<a href="https://m.me/b7.github.io" target="_blank">Messenger</a>**
 
 ### FIND
-**<a href="https://google.com/maps/d/viewer?mid=1iLILLpat1vu0706gWIXKOhdcLtmeoTx9" target="_blank">Maps</a>**
+**<a href="https://google.com/maps/d/viewer?mid=1iLILLpat1vu0706gWIXKOhdcLtmeoTx9" target="_blank">Maps</a>** **<a href="https://orcid.org/0000-0001-7640-7251" target="_blank">ORCID</a>**
 
-**<a href="https://orcid.org/0000-0001-7640-7251" target="_blank">ORCID</a>**
+**<a href="https://github.com/b7" target="_blank">GithHub</a>** **<a href="https://freecodecamp.org/b7g" target="_blank">freeCodeCamp</a>**
 
-**<a href="https://github.com/b7" target="_blank">GithHub</a>**
+**<a href="https://youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw" target="_blank">YouTube</a>** **<a href="https://linkedin.com/in/kai-adam" target="_blank">Linkedin</a>**
 
-**<a href="https://freecodecamp.org/b7g" target="_blank">freeCodeCamp</a>**
+**<a href="https://twitter.com/b7git" target="_blank">twitter</a>** **<a href="https://facebook.com/b7.github.io" target="_blank">facebook</a>**
 
-**<a href="https://youtube.com/channel/UCt4T3OvxivlcvGg9Ah8hLQw" target="_blank">YouTube</a>**
+**<a href="https://instagram.com/b7.github.io" target="_blank">Instagram</a>** **<a href="https://minds.com/b7git/" target="_blank">MINDS</a>**
 
-**<a href="https://linkedin.com/in/kai-adam" target="_blank">Linkedin</a>**
+**<a href="https://wt.social/u/b7" target="_blank">WT.Social</a>** **<a href="https://medium.com/@b7g" target="_blank">Medium</a>**
 
-**<a href="https://twitter.com/b7git" target="_blank">twitter</a>**
+**<a href="https://gitshowcase.com/b7" target="_blank">GITSHOWCASE</a>** **<a href="https://gitmemory.com/b7" target="_blank">gitmemor</a>**
 
-**<a href="https://facebook.com/b7.github.io" target="_blank">facebook</a>**
-
-**<a href="https://instagram.com/b7.github.io" target="_blank">Instagram</a>**
-
-**<a href="https://minds.com/b7git/" target="_blank">MINDS</a>**
+**<a href="https://angel.co/b7g" target="_blank">Angel</a>** **<a href="https://b7.neocities.org" target="_blank">neocities</a>**
 
 Copyright © 2019 - 2020 b7
