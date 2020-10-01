@@ -66,3 +66,5 @@ body {
 **<a href="https://angel.co/b7g" target="_blank">Angel</a>** **<a href="https://b7.neocities.org" target="_blank">neocities</a>**
 
 **<a href="https://medium.com/@b7g" target="_blank">Medium</a>**
+
+Copyright © 2019 - 2020 b7
