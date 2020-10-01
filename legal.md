@@ -61,10 +61,8 @@ body {
 
 **<a href="https://instagram.com/b7.github.io" target="_blank">Instagram</a>** **<a href="https://minds.com/b7git/" target="_blank">MINDS</a>**
 
-**<a href="https://wt.social/u/b7" target="_blank">WT.Social</a>** **<a href="https://medium.com/@b7g" target="_blank">Medium</a>**
-
 **<a href="https://gitshowcase.com/b7" target="_blank">GITSHOWCASE</a>** **<a href="https://gitmemory.com/b7" target="_blank">gitmemor</a>**
 
 **<a href="https://angel.co/b7g" target="_blank">Angel</a>** **<a href="https://b7.neocities.org" target="_blank">neocities</a>**
 
-Copyright © 2019 - 2020 b7
+**<a href="https://medium.com/@b7g" target="_blank">Medium</a>**
