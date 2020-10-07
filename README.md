@@ -46,7 +46,7 @@ body {
 ### References
 **<a href="https://developers.google.com/speed/pagespeed/insights/?&url=https://b7.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a>**
 
-**<a href="https://github.com/b7" target="_blank">GitHub Code Contributor</a>**
+**<a href="https://github.com/b7" target="_blank">GitHub Contributor</a> <a href="https://gitlab.com/b7g" target="_blank">GitLab</a>**
 
 **<a href="https://scienceopen.com/user/kaiadam" target="_blank">ScienceOpen Member</a>**
 
